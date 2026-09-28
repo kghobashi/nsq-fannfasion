@@ -1,0 +1,49 @@
+{
+  "brand": "FANN Fashion",
+  "reviewed_on": "2026-09-28",
+  "assets": [
+    {
+      "id": "design-system-v11",
+      "source_name": "NSQ_Design_System_v11(3).html",
+      "kind": "visual-system-reference",
+      "status": "reviewed-reference",
+      "approved_scope": "Palette; typography now explicitly confirmed by founder",
+      "production_use": "Translate approved identity into tokens; do not reuse the portfolio layout automatically",
+      "repository_path": null
+    },
+    {
+      "id": "fann-header",
+      "source_name": "fann-fashion-header.jpg",
+      "kind": "mood-reference",
+      "status": "visually-inspected",
+      "description": "Blue-black textured material, layered diagonal geometry and gold FANN FASHION lettering",
+      "production_use": "Mood only until asset selection and rights are confirmed",
+      "repository_path": null
+    },
+    {
+      "id": "fann-portfolio-concept",
+      "source_name": "FANN: Architectural black, champagne light.png",
+      "kind": "generated-concept-reference",
+      "status": "visually-inspected",
+      "description": "Sculptural dark fabric and warm edge light within an NSQ.global portfolio composition",
+      "production_use": "Mood only; garment construction, parent navigation and constellation are not FANN storefront requirements",
+      "repository_path": null
+    },
+    {
+      "id": "bank-gothic-font-files",
+      "source_names": ["bgothm.woff2", "bgothl.woff2", "bgothm.woff", "bgothl.woff"],
+      "kind": "font-candidates",
+      "status": "file-metadata-known",
+      "production_use": "Confirm internal family names, browser rendering and web/public distribution rights",
+      "repository_path": null
+    }
+  ],
+  "missing_production_assets": [
+    "Approved vector wordmark and variants",
+    "Accurate launch garment references and technical drawings",
+    "Product front/back/detail photography or approved renders",
+    "Verified fit and size artwork",
+    "Approved packaging artwork",
+    "Campaign casting and image-rights record"
+  ]
+}

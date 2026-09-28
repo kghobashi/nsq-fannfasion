@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://nsq.global/schemas/context-packet.schema.json",
+  "title": "NSQ Brand Context Packet v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["brand","context_version","source","loaded_sections","locked","principles","experience","website","constraints","open_questions"],
+  "properties": {
+    "brand": {"type":"string"},
+    "context_version": {"type":"string","pattern":"^\\d+\\.\\d+\\.\\d+$"},
+    "source": {"const":"github"},
+    "loaded_sections": {"type":"array","items":{"type":"string"}},
+    "locked": {
+      "type":"object",
+      "additionalProperties": false,
+      "required":["identity","voice","visual"],
+      "properties": {
+        "identity":{"type":"array","items":{"type":"string"}},
+        "voice":{"type":"array","items":{"type":"string"}},
+        "visual":{"type":"array","items":{"type":"string"}}
+      }
+    },
+    "principles":{"type":"array","items":{"type":"string"}},
+    "experience":{"type":"array","items":{"type":"string"}},
+    "website":{"type":"array","items":{"type":"string"}},
+    "constraints":{"type":"array","items":{"type":"string"}},
+    "open_questions":{"type":"array","items":{"type":"string"}}
+  }
+}
