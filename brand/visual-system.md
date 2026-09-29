@@ -21,5 +21,9 @@ Existing references suggest dark fabric, architectural folds, restrained warm ed
 
 Saved font files named bgothm.woff2 and bgothl.woff2 exist. Confirm internal font-family names, browser rendering and distribution rights before self-hosting them. Do not copy proprietary font binaries into this public repository as part of the foundation.
 
-OPEN QUESTION: Final vector wordmark, exact lettering/case rules and permitted logo variants are still needed.
-OPEN QUESTION: Campaign casting, garment photography and approved production asset rights are not yet specified.
+The supplied FANN_Logo-2.png (1072 × 930, RGBA) is the current mark for initial use. It is a geometric warm-gold symbol, not a full wordmark. Use it as supplied; do not redraw it through image generation.
+
+OPEN QUESTION: Vector master, final full/short wordmark lockups and clear-space rules.
+The 29 September intake contains 17 garment/design reference images, one Gold palette board and one logo. The Mesh image is a multi-design montage. The Gold board is a palette reference, not six finished garment images. Generated labels and inconsistent cuts must be resolved before production use.
+
+OPEN QUESTION: Final campaign casting, consistent garment photography/renders and production asset review.

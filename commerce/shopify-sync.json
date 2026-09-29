@@ -1,0 +1,777 @@
+{
+  "updated_at": "2026-09-29",
+  "context_version": "1.1.0",
+  "store": {
+    "domain": "8gdtem-bi.myshopify.com",
+    "initial_name": "My Store 5",
+    "currency": "AED",
+    "country": "AE",
+    "plan": "trial"
+  },
+  "theme": {
+    "id": "gid://shopify/OnlineStoreTheme/207850832241",
+    "name": "Horizon",
+    "role": "MAIN",
+    "modified": false,
+    "skeleton_status": "not implemented; website concept selection comes first"
+  },
+  "images": {
+    "uploaded": 19,
+    "product_media_references": 18,
+    "logo_uploaded": true,
+    "logo_assigned_in_theme": false
+  },
+  "products": [
+    {
+      "key": "silver-line",
+      "id": "gid://shopify/Product/16031307006321",
+      "title": "Silver Line",
+      "handle": "silver-line",
+      "status": "DRAFT",
+      "published_at": null,
+      "admin_url": "https://admin.shopify.com/store/8gdtem-bi/products/16031307006321",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67598726201713",
+          "title": "White",
+          "sku": "FANN-DRAFT-SILVER-LINE-01",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": [
+            "gid://shopify/MediaImage/70436002201969"
+          ]
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67598726234481",
+          "title": "Black",
+          "sku": "FANN-DRAFT-SILVER-LINE-02",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": [
+            "gid://shopify/MediaImage/70435991912817"
+          ]
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67598726267249",
+          "title": "Navy",
+          "sku": "FANN-DRAFT-SILVER-LINE-03",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": [
+            "gid://shopify/MediaImage/70436000006513"
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/70436002201969",
+          "status": "READY",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-silverline-white.jpg?v=1790697522"
+        },
+        {
+          "id": "gid://shopify/MediaImage/70435991912817",
+          "status": "READY",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-silverline-black.jpg?v=1790697462"
+        },
+        {
+          "id": "gid://shopify/MediaImage/70436000006513",
+          "status": "READY",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-silverline-navy.jpg?v=1790697507"
+        }
+      ]
+    },
+    {
+      "key": "gold-line",
+      "id": "gid://shopify/Product/16031307334001",
+      "title": "Gold Line",
+      "handle": "gold-line",
+      "status": "DRAFT",
+      "published_at": null,
+      "admin_url": "https://admin.shopify.com/store/8gdtem-bi/products/16031307334001",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67598729019761",
+          "title": "Maroon",
+          "sku": "FANN-DRAFT-GOLD-LINE-01",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": [
+            "gid://shopify/MediaImage/70435989258609"
+          ]
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67598729052529",
+          "title": "Black",
+          "sku": "FANN-DRAFT-GOLD-LINE-02",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": []
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67598729085297",
+          "title": "Ivory",
+          "sku": "FANN-DRAFT-GOLD-LINE-03",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": []
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67598729118065",
+          "title": "Purple",
+          "sku": "FANN-DRAFT-GOLD-LINE-04",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": []
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67598729150833",
+          "title": "Blue",
+          "sku": "FANN-DRAFT-GOLD-LINE-05",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": []
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67598729183601",
+          "title": "Green",
+          "sku": "FANN-DRAFT-GOLD-LINE-06",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": []
+        }
+      ],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/70435989258609",
+          "status": "READY",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-gold-maroon.png?v=1790697444"
+        },
+        {
+          "id": "gid://shopify/MediaImage/70435879453041",
+          "status": "READY",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-20251010_201726738_ios.png?v=1790694953"
+        }
+      ]
+    },
+    {
+      "key": "platinum-line",
+      "id": "gid://shopify/Product/16031307694449",
+      "title": "Platinum Line",
+      "handle": "platinum-line",
+      "status": "DRAFT",
+      "published_at": null,
+      "admin_url": "https://admin.shopify.com/store/8gdtem-bi/products/16031307694449",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67598732034417",
+          "title": "Steel Blue",
+          "sku": "FANN-DRAFT-PLATINUM-LINE-01",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": [
+            "gid://shopify/MediaImage/70436030415217"
+          ]
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67598732067185",
+          "title": "Charcoal",
+          "sku": "FANN-DRAFT-PLATINUM-LINE-02",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": [
+            "gid://shopify/MediaImage/70436024615281"
+          ]
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67598732099953",
+          "title": "Ivory White",
+          "sku": "FANN-DRAFT-PLATINUM-LINE-03",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": [
+            "gid://shopify/MediaImage/70436027367793"
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/70436030415217",
+          "status": "READY",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-platinum-steel-blue.jpg?v=1790697698"
+        },
+        {
+          "id": "gid://shopify/MediaImage/70436024615281",
+          "status": "READY",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-platinum-charcoal.jpg?v=1790697662"
+        },
+        {
+          "id": "gid://shopify/MediaImage/70436027367793",
+          "status": "READY",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-platinum-ivory-white.jpg?v=1790697678"
+        }
+      ]
+    },
+    {
+      "key": "black-velvet",
+      "id": "gid://shopify/Product/16031308120433",
+      "title": "Black Line — Velvet",
+      "handle": "black-velvet",
+      "status": "DRAFT",
+      "published_at": null,
+      "admin_url": "https://admin.shopify.com/store/8gdtem-bi/products/16031308120433",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67598734655857",
+          "title": "Black",
+          "sku": "FANN-DRAFT-BLACK-VELVET-01",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": [
+            "gid://shopify/MediaImage/70435985326449"
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/70435985326449",
+          "status": "READY",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-black-velvet.png?v=1790697424"
+        }
+      ]
+    },
+    {
+      "key": "black-eclipse",
+      "id": "gid://shopify/Product/16031308546417",
+      "title": "Black Line — Eclipse",
+      "handle": "black-eclipse",
+      "status": "DRAFT",
+      "published_at": null,
+      "admin_url": "https://admin.shopify.com/store/8gdtem-bi/products/16031308546417",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67598737572209",
+          "title": "Black",
+          "sku": "FANN-DRAFT-BLACK-ECLIPSE-01",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": [
+            "gid://shopify/MediaImage/70435881419121"
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/70435881419121",
+          "status": "READY",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-black-eclipse.png?v=1790694999"
+        }
+      ]
+    },
+    {
+      "key": "black-mesh",
+      "id": "gid://shopify/Product/16031308906865",
+      "title": "Black Line — Mesh",
+      "handle": "black-mesh",
+      "status": "DRAFT",
+      "published_at": null,
+      "admin_url": "https://admin.shopify.com/store/8gdtem-bi/products/16031308906865",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67598740488561",
+          "title": "Black",
+          "sku": "FANN-DRAFT-BLACK-MESH-01",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": [
+            "gid://shopify/MediaImage/70435881746801"
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/70435881746801",
+          "status": "READY",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-black-mesh.png?v=1790695019"
+        }
+      ]
+    },
+    {
+      "key": "black-monolith",
+      "id": "gid://shopify/Product/16031309332849",
+      "title": "Black Line — Monolith",
+      "handle": "black-monolith",
+      "status": "DRAFT",
+      "published_at": null,
+      "admin_url": "https://admin.shopify.com/store/8gdtem-bi/products/16031309332849",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67598743011697",
+          "title": "Black",
+          "sku": "FANN-DRAFT-BLACK-MONOLITH-01",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": [
+            "gid://shopify/MediaImage/70435983688049"
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/70435983688049",
+          "status": "READY",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-black-monolith.png?v=1790697406"
+        }
+      ]
+    },
+    {
+      "key": "legacy-pharaoh",
+      "id": "gid://shopify/Product/16031309693297",
+      "title": "Legacy — The Pharaoh",
+      "handle": "legacy-pharaoh",
+      "status": "DRAFT",
+      "published_at": null,
+      "admin_url": "https://admin.shopify.com/store/8gdtem-bi/products/16031309693297",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67598745338225",
+          "title": "Black / gold",
+          "sku": "FANN-DRAFT-LEGACY-PHARAOH-01",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": [
+            "gid://shopify/MediaImage/70436015473009"
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/70436015473009",
+          "status": "READY",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-legacy-pharaoh.png?v=1790697605"
+        }
+      ]
+    },
+    {
+      "key": "legacy-spartan",
+      "id": "gid://shopify/Product/16031310053745",
+      "title": "Legacy — The Spartan",
+      "handle": "legacy-spartan",
+      "status": "DRAFT",
+      "published_at": null,
+      "admin_url": "https://admin.shopify.com/store/8gdtem-bi/products/16031310053745",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67598747730289",
+          "title": "Black",
+          "sku": "FANN-DRAFT-LEGACY-SPARTAN-01",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": [
+            "gid://shopify/MediaImage/70436018061681"
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/70436018061681",
+          "status": "READY",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-legacy-spartan.png?v=1790697624"
+        }
+      ]
+    },
+    {
+      "key": "legacy-samurai",
+      "id": "gid://shopify/Product/16031310446961",
+      "title": "Legacy — The Samurai",
+      "handle": "legacy-samurai",
+      "status": "DRAFT",
+      "published_at": null,
+      "admin_url": "https://admin.shopify.com/store/8gdtem-bi/products/16031310446961",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67598750220657",
+          "title": "Black",
+          "sku": "FANN-DRAFT-LEGACY-SAMURAI-01",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": [
+            "gid://shopify/MediaImage/70436005085553"
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/70436005085553",
+          "status": "READY",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-legacy-samurai.png?v=1790697543"
+        }
+      ]
+    },
+    {
+      "key": "legacy-viking",
+      "id": "gid://shopify/Product/16031310840177",
+      "title": "Legacy — The Viking",
+      "handle": "legacy-viking",
+      "status": "DRAFT",
+      "published_at": null,
+      "admin_url": "https://admin.shopify.com/store/8gdtem-bi/products/16031310840177",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67598752612721",
+          "title": "Black",
+          "sku": "FANN-DRAFT-LEGACY-VIKING-01",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": [
+            "gid://shopify/MediaImage/70436022190449"
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/70436022190449",
+          "status": "READY",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-legacy-viking.png?v=1790697645"
+        }
+      ]
+    },
+    {
+      "key": "legacy-gladiator",
+      "id": "gid://shopify/Product/16031311266161",
+      "title": "Legacy — The Gladiator",
+      "handle": "legacy-gladiator",
+      "status": "DRAFT",
+      "published_at": null,
+      "admin_url": "https://admin.shopify.com/store/8gdtem-bi/products/16031311266161",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67598755266929",
+          "title": "Black",
+          "sku": "FANN-DRAFT-LEGACY-GLADIATOR-01",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": [
+            "gid://shopify/MediaImage/70436009378161"
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/70436009378161",
+          "status": "READY",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-legacy-gladiator.png?v=1790697565"
+        }
+      ]
+    },
+    {
+      "key": "legacy-knight",
+      "id": "gid://shopify/Product/16031311692145",
+      "title": "Legacy — The Knight",
+      "handle": "legacy-knight",
+      "status": "DRAFT",
+      "published_at": null,
+      "admin_url": "https://admin.shopify.com/store/8gdtem-bi/products/16031311692145",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67598758347121",
+          "title": "Black",
+          "sku": "FANN-DRAFT-LEGACY-KNIGHT-01",
+          "price": "0.00",
+          "inventory_tracked": true,
+          "inventory_quantity": 0,
+          "inventory_policy": "DENY",
+          "media_ids": [
+            "gid://shopify/MediaImage/70436012097905"
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/70436012097905",
+          "status": "READY",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-legacy-knight.png?v=1790697585"
+        }
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "id": "gid://shopify/Collection/710825443697",
+      "title": "Silver Line",
+      "handle": "silver-line",
+      "product_count": 1,
+      "published_count": 0
+    },
+    {
+      "id": "gid://shopify/Collection/710825476465",
+      "title": "Gold Line",
+      "handle": "gold-line",
+      "product_count": 1,
+      "published_count": 0
+    },
+    {
+      "id": "gid://shopify/Collection/710825574769",
+      "title": "Platinum Line",
+      "handle": "platinum-line",
+      "product_count": 1,
+      "published_count": 0
+    },
+    {
+      "id": "gid://shopify/Collection/710825607537",
+      "title": "Black Line",
+      "handle": "black-line",
+      "product_count": 4,
+      "published_count": 0
+    },
+    {
+      "id": "gid://shopify/Collection/710825640305",
+      "title": "Legacy Line",
+      "handle": "legacy-line",
+      "product_count": 6,
+      "published_count": 0
+    },
+    {
+      "id": "gid://shopify/Collection/710825673073",
+      "title": "Seasonal Editions",
+      "handle": "seasonal-editions",
+      "product_count": 0,
+      "published_count": 0
+    }
+  ],
+  "pages": [
+    {
+      "id": "gid://shopify/Page/719887597937",
+      "title": "About FANN",
+      "handle": "about-fann",
+      "is_published": false,
+      "template_suffix": null,
+      "theme_blocks_implemented": false
+    },
+    {
+      "id": "gid://shopify/Page/719887630705",
+      "title": "Design Philosophy",
+      "handle": "design-philosophy",
+      "is_published": false,
+      "template_suffix": null,
+      "theme_blocks_implemented": false
+    },
+    {
+      "id": "gid://shopify/Page/719887663473",
+      "title": "The Legacy Story",
+      "handle": "legacy",
+      "is_published": false,
+      "template_suffix": null,
+      "theme_blocks_implemented": false
+    },
+    {
+      "id": "gid://shopify/Page/719887696241",
+      "title": "Size & Care",
+      "handle": "size-and-care",
+      "is_published": false,
+      "template_suffix": null,
+      "theme_blocks_implemented": false
+    },
+    {
+      "id": "gid://shopify/Page/719887729009",
+      "title": "Frequently Asked Questions",
+      "handle": "faq",
+      "is_published": false,
+      "template_suffix": null,
+      "theme_blocks_implemented": false
+    }
+  ],
+  "contact": {
+    "id": "gid://shopify/Page/719885042033",
+    "handle": "contact",
+    "is_published": true,
+    "template_suffix": "contact",
+    "existing_page_reused": true,
+    "body_updated": true,
+    "form_delivery_tested": false
+  },
+  "menus": [
+    {
+      "id": "gid://shopify/Menu/339378438513",
+      "title": "FANN — Main navigation",
+      "handle": "fann-main",
+      "assigned_to_theme": false,
+      "items": [
+        {
+          "title": "Collections",
+          "type": "COLLECTIONS",
+          "resourceId": null,
+          "url": "/collections",
+          "items": [
+            {
+              "title": "Silver",
+              "type": "COLLECTION",
+              "resourceId": "gid://shopify/Collection/710825443697",
+              "url": "/collections/silver-line"
+            },
+            {
+              "title": "Gold",
+              "type": "COLLECTION",
+              "resourceId": "gid://shopify/Collection/710825476465",
+              "url": "/collections/gold-line"
+            },
+            {
+              "title": "Platinum",
+              "type": "COLLECTION",
+              "resourceId": "gid://shopify/Collection/710825574769",
+              "url": "/collections/platinum-line"
+            },
+            {
+              "title": "Black",
+              "type": "COLLECTION",
+              "resourceId": "gid://shopify/Collection/710825607537",
+              "url": "/collections/black-line"
+            },
+            {
+              "title": "Legacy",
+              "type": "COLLECTION",
+              "resourceId": "gid://shopify/Collection/710825640305",
+              "url": "/collections/legacy-line"
+            }
+          ]
+        },
+        {
+          "title": "Our Story",
+          "type": "PAGE",
+          "resourceId": "gid://shopify/Page/719887597937",
+          "url": "/pages/about-fann",
+          "items": []
+        },
+        {
+          "title": "Design Philosophy",
+          "type": "PAGE",
+          "resourceId": "gid://shopify/Page/719887630705",
+          "url": "/pages/design-philosophy",
+          "items": []
+        },
+        {
+          "title": "Contact",
+          "type": "PAGE",
+          "resourceId": "gid://shopify/Page/719885042033",
+          "url": "/pages/contact",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Menu/339378504049",
+      "title": "FANN — Footer navigation",
+      "handle": "fann-footer",
+      "assigned_to_theme": false,
+      "items": [
+        {
+          "title": "About FANN",
+          "type": "PAGE",
+          "resourceId": "gid://shopify/Page/719887597937",
+          "url": "/pages/about-fann",
+          "items": []
+        },
+        {
+          "title": "Design Philosophy",
+          "type": "PAGE",
+          "resourceId": "gid://shopify/Page/719887630705",
+          "url": "/pages/design-philosophy",
+          "items": []
+        },
+        {
+          "title": "The Legacy Story",
+          "type": "PAGE",
+          "resourceId": "gid://shopify/Page/719887663473",
+          "url": "/pages/legacy",
+          "items": []
+        },
+        {
+          "title": "Size & Care",
+          "type": "PAGE",
+          "resourceId": "gid://shopify/Page/719887696241",
+          "url": "/pages/size-and-care",
+          "items": []
+        },
+        {
+          "title": "Frequently Asked Questions",
+          "type": "PAGE",
+          "resourceId": "gid://shopify/Page/719887729009",
+          "url": "/pages/faq",
+          "items": []
+        },
+        {
+          "title": "Contact",
+          "type": "PAGE",
+          "resourceId": "gid://shopify/Page/719885042033",
+          "url": "/pages/contact",
+          "items": []
+        }
+      ]
+    }
+  ],
+  "verification": {
+    "products": 13,
+    "variants": 22,
+    "all_products_draft": true,
+    "all_products_unpublished": true,
+    "all_inventory_zero_tracked": true,
+    "all_inventory_policy_deny": true,
+    "new_pages_unpublished": 5,
+    "new_collections_unpublished": 6,
+    "correct_variant_media": true,
+    "no_new_size_options": true,
+    "no_checkout_or_domain_changes": true
+  },
+  "remaining": [
+    "Seasonal source batch",
+    "Website concept selection",
+    "Editable native theme skeleton",
+    "Final garment design and evidence",
+    "Retail pricing and size ranges",
+    "Store name and domain setup",
+    "Final market and currency decisions",
+    "Policies, support and contact delivery",
+    "Font rights and final production imagery"
+  ]
+}

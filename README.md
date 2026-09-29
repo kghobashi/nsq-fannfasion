@@ -13,12 +13,12 @@ Canonical brand foundation and website preparation for FANN Fashion, a men's fas
 | Body and UI typography | Montserrat |
 | Brand promise | Designed for Confidence. Engineered for Comfort. |
 | Tagline | Support in Style. |
-| Current retained line | Legacy Line; exact launch assortment remains open |
+| Current development range | Silver, Gold, Platinum, Black and Legacy; Seasonal Editions reserved |
 | Current scope | No erotic-themed underwear; X Edition is excluded from the current launch and website |
-| Recorded commerce direction | Shopify; storefront and launch mode still to be specified |
+| Commerce | Shopify development store connected; native editable theme follows website concept review |
 | Intended public domain | fann.fashion; domain configuration has not been verified here |
 
-The identity and scope decisions above were confirmed by Kay on 28 September 2026. This is a brand foundation, not a completed product specification or deployed website.
+The identity and scope decisions above were confirmed through Kay’s 28–29 September 2026 instructions. This is a brand foundation, not a completed product specification or deployed website.
 
 ## Start here
 
@@ -29,7 +29,9 @@ The identity and scope decisions above were confirmed by Kay on 28 September 202
 5. [Skill assignments](docs/skill-routing.md)
 6. [Working role prompt](docs/role-prompt.md)
 
-The supplied `FANN Fashion Brand Bible.docx` contains a title and page break, but no substantive bible text. Its package also contains a background image. See the [source receipt](docs/sources/2026-09-28-brand-bible-receipt.md). The full bible remains a required source.
+The substantive Strategic Updates bible and 19 images supplied on 29 September have now been reviewed. The [intake record](docs/sources/2026-09-29-strategic-bible-intake.md) reconciles collection names, proposed claims and concept imagery. The original empty-file receipt is retained as history.
+
+Start the commerce phase with [catalogue content](commerce/README.md), the [native Shopify structure](docs/shopify-structure.md) and [copy/experience contract](docs/experience-contract.md). See commerce/shopify-sync.json for the actual store resources and verified state.
 
 ## Repository structure
 
@@ -54,4 +56,4 @@ node scripts/build-context-packet.mjs . website philosophy decisions
 
 The second command prints the derived context packet. Its checked-in counterpart is `brand/context-packet.json`. Open questions are part of the contract and must not be inferred away.
 
-Website concept images, a production theme and a live deployment are not yet part of this foundation.
+Current phase: draft catalogue, consolidated copy and website structure. Website concept selection comes next, followed by the native Shopify skeleton and individual garment-image refinement. No finished product or public storefront launch is implied.

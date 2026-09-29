@@ -1,0 +1,70 @@
+{
+  "status": "editorial-draft; composition open",
+  "hero": {
+    "eyebrow": "FANN Fashion",
+    "heading": "Designed for Confidence. Engineered for Comfort.",
+    "text": "A considered first layer. A personal expression.",
+    "tagline": "Support in Style.",
+    "primary_cta": "Explore the collections",
+    "secondary_cta": "Discover FANN"
+  },
+  "introduction": {
+    "heading": "Confidence begins underneath.",
+    "text": "FANN brings structure, comfort-led design and personal identity to the first layer of getting dressed."
+  },
+  "collections": {
+    "heading": "Find your expression.",
+    "items": [
+      {
+        "key": "silver",
+        "title": "Silver Line",
+        "text": "The Foundation of Confidence"
+      },
+      {
+        "key": "gold",
+        "title": "Gold Line",
+        "text": "Precision in Motion"
+      },
+      {
+        "key": "platinum",
+        "title": "Platinum Line",
+        "text": "The Art of Comfort"
+      },
+      {
+        "key": "black",
+        "title": "Black Line",
+        "text": "Controlled Intensity"
+      },
+      {
+        "key": "legacy",
+        "title": "Legacy Line",
+        "text": "Strength, Defined Within"
+      }
+    ]
+  },
+  "philosophy": {
+    "heading": "Considered, from the inside out.",
+    "text": "Form is the starting point. The way a garment feels and works must earn its place alongside the way it looks.",
+    "cta": "Our design philosophy"
+  },
+  "legacy": {
+    "heading": "Strength, defined within.",
+    "text": "Six initial archetypes. Six expressions of a personal code. Explore the story behind Legacy.",
+    "cta": "Explore Legacy"
+  },
+  "development": {
+    "heading": "A first look at FANN.",
+    "text": "Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release."
+  },
+  "signup": {
+    "heading": "Be part of what comes next.",
+    "text": "Receive collection news and release updates from FANN.",
+    "button": "Keep me informed",
+    "success": "You’re on the list. We’ll share what comes next.",
+    "privacy": "Consent wording and privacy link must be finalized before enabling signup."
+  },
+  "footer": {
+    "tagline": "Support in Style.",
+    "brand_line": "FANN Fashion — Designed for Confidence. Engineered for Comfort."
+  }
+}

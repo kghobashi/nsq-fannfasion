@@ -1,39 +1,33 @@
-# Remaining preparation gaps
+# Remaining gaps — 29 September 2026
 
-Updated 28 September 2026 after founder decisions.
+## Resolved in this phase
 
-## Resolved
+Typography and both exact messaging lines are settled. X Edition is excluded. The dedicated repository exists. The substantive strategic bible is read; the philosophy and collection architecture are consolidated. The initial logo and concept imagery are available. The FANN development Shopify store is connected.
 
-| Earlier gap | Resolution |
-|---|---|
-| Display/body typography conflict | Bank Gothic + Montserrat approved |
-| Tagline hierarchy | Both lines approved: promise plus short tagline |
-| Confidence/comfort wording | Designed for Confidence. Engineered for Comfort. is exact |
-| X Edition current scope | Excluded from the current launch and website |
-| Dedicated repository | kghobashi/nsq-fannfasion is the dedicated foundation repository |
+## Open before website concept selection
 
-## Before product-led concept renders
+- Choose the website composition and how editorial product imagery, copy and collection navigation share attention.
+- Seasonals: next image batch remains pending. Keep the reserved collection unpublished and outside current navigation.
+- Confirm whether the public first phase is a showcase/waitlist, preorder or stocked store. Internal draft preparation can proceed without this answer.
 
-| Priority | Missing input | Purpose |
+## Open before product refinement and launch
+
+| Priority | Gap | Current treatment |
 |---|---|---|
-| P0 | Complete brand-bible body | Recover established philosophy, line detail and past decisions; current upload has title only |
-| P0 | First website mode | Choose the correct story, CTA and functional scope |
-| P0 | Launch garments | Determine accurate silhouette, waistband, fabric appearance, colour and branding |
-| P0 | Main product benefit and supporting evidence | Make the product story specific and truthful |
-| P1 | Approved logo/vector treatment | Preserve exact wordmark and case consistently |
-| P1 | First market and customer | Decide language, casting, sizing emphasis and commerce needs |
-| P1 | Image references and rights | Define model/product balance and a production-ready asset plan |
+| P0 | Real garment construction, materials, support system and samples | All imagery and descriptions remain concepts; claims are not treated as evidence |
+| P0 | Price, currency/markets, size grading, stock and fulfilment | Draft products, tracked zero inventory, zero administrative price placeholders, no invented size options |
+| P0 | Shipping, intimate-apparel returns/exchanges, privacy and business/support details | Do not fabricate policy text or launch checkout/forms without the required setup |
+| P1 | Gold's five further garment renders and six final colour names | Use Maroon plus the palette board; other colour variants have no falsely assigned individual photo |
+| P1 | Silver/Platinum colour consistency | Reconcile cut, panel geometry and branding across colourways |
+| P1 | Black and Legacy wearable construction | Translate heavy/armour-like visual features into feasible comfortable patterns |
+| P1 | Image quality and branding | Remove unrelated/generated lettering and unrealistic effects; unify lighting and crops later |
+| P1 | Logo master and type rights | Supplied PNG usable; vector/lockups and confirmed font distribution rights still needed |
+| P1 | Store name/domain and commercial configuration | Newly selected trial store is initially My Store 5, UAE/AED; intended domain remains fann.fashion |
 
-Mood and composition studies can proceed with declared assumptions. Product renders should remain marked as concepts until construction and material inputs exist.
-
-## Before selling
-
-Complete product data, sizes and grading; sample and wear/wash evaluation; evidence-backed claims; pricing and stock/preorder terms; packaging; fulfilment; delivery and intimate-apparel exchanges/returns; business and customer-support information; payment setup; market/currency/tax configuration; store access; and functional/visual launch verification.
-
-These are readiness questions, not assumptions that specific arrangements are absent outside the inspected sources.
+The strategic document's competitor exclusivity, proprietary/patented technology, forecast returns, scarcity and material claims are not validated facts. Keep them out of public claims pending evidence.
 
 ## Deferred
 
-Community naming such as Circle of Ten need not block a website without a membership programme. Accessories and other expansion ideas are not part of the confirmed launch assortment. X Edition is excluded; no teaser should be used as a workaround.
+Ninja, Immortal, Jaguar and Sentinel: remaining Legacy narrative roadmap. Subscriptions, numbered limited editions, marketplace integrations, comparison tools, 3D experiences and expanded categories are outside this foundation phase. The old Q2 launch plan must not drive current timing.
 
-Headless commerce, custom accounts, loyalty, complex configurators and immersive 3D remain optional future investments, not baseline requirements.
+Supabase's older identity and planned repository/site records still require a separate scoped synchronization. No Supabase record is changed here.

@@ -1,0 +1,17 @@
+{
+  "reuse_existing_page": "contact",
+  "existing_page_id": "gid://shopify/Page/719885042033",
+  "heading": "Let’s talk.",
+  "text": "Have a question about FANN, a collaboration or the collection? Send us a message.",
+  "fields": [
+    "Name",
+    "Email",
+    "Message"
+  ],
+  "button": "Send message",
+  "success": "Thank you. Your message has been received.",
+  "implementation": "Use the native Shopify contact form; verify recipient settings and delivery before launch. Do not invent a support address or response SLA.",
+  "body_applied_to_existing_page": true,
+  "existing_native_contact_template_preserved": true,
+  "form_delivery_tested": false
+}

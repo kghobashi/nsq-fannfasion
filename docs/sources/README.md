@@ -30,3 +30,7 @@ Do not equate a planned record with a working deployment, account or verified cl
 ## Validation tooling
 
 The dependency-free scripts and JSON schemas are copied unchanged from the installed `nsq-brand-context` skill, verified against the NSQ skills snapshot above. They validate the manifest and derive the context packet; they do not approve open product or website decisions.
+
+## 29 September supplement
+
+The substantive Strategic Updates bible, 18 garment/palette images and logo now supersede the earlier missing-content and missing-product-reference gaps. See [intake and reconciliation](2026-09-29-strategic-bible-intake.md). The earlier empty-file receipt remains a record of that specific upload.
