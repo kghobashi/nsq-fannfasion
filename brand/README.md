@@ -1,6 +1,6 @@
 # FANN brand context
 
-This directory is FANN's canonical foundation. Version 1.0.0 records the approved typography, exact messaging and current scope from Kay's 28 September 2026 instruction, together with the previously verified brand role and palette.
+This directory is FANN's canonical foundation. Version 1.1.0 incorporates the substantive Strategic Updates bible and concept assets supplied on 29 September, while preserving the approved typography, exact messaging and X Edition exclusion from 28 September.
 
 ## Authority and approval scope
 
@@ -23,4 +23,4 @@ Canonical status applies to the bounded foundation. Product specifications, coll
 
 Use PATCH for clarification, MINOR for an approved extension, and MAJOR for material repositioning. Record approval basis, exact scope and superseded content in `decisions.md`. Keep the original source receipt when a file is incomplete or replaced.
 
-The uploaded bible body is missing; do not fill it with invented brand history, meaning, mythology or product specifications. Source observations and unresolved questions are documented under `docs/`.
+The substantive Strategic Updates document has been reviewed. It supplies philosophy, collection roles and archetype narratives, but is not a manufacturing specification. Its market assertions, proposed materials, prices and old timetable are not independently verified. The original empty-file receipt remains historical evidence; the new intake receipt supersedes that content gap.

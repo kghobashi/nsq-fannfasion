@@ -1,5 +1,23 @@
 # Decision history
 
+## 2026-09-29 Foundation v1.1.0 — source consolidation and draft commerce
+
+Authority: Kay supplied the Strategic Updates bible, 18 concept/palette images and the FANN mark, requested consolidation and Shopify product/page preparation, and specified editable native Shopify blocks. Website concepts precede the theme skeleton; individual garment refinement follows.
+
+- Preserve the exact promise, tagline, fonts and current X Edition exclusion from 28 September.
+- Extend the draft catalogue to Silver, Gold, Platinum, Black and Legacy using the supplied references; reserve Seasonal Editions for the next batch.
+- Keep the source's Warrior archetypes under the current Legacy Line name.
+- Gold has six colours; the image board supplies provisional Black, Ivory, Purple, Blue, Maroon and Green directions. Names and shades remain open.
+- Treat all underwear images as concept renders and every garment as still in development.
+- Use the supplied FANN logo for initial implementation.
+- Use native Shopify sections, blocks and JSON templates so Kay can edit small content and visual details.
+- Create draft products and unpublished collection/page content without inventing retail prices, size ranges, stock, product claims or sales policies.
+
+The supplied document is titled Brand Bible v2 but ends with Document Version 2.1 and a Q2 2026 date. It is a strategic supplement, not a complete product technical specification. Late upload does not make its Q2 launch timetable current. Competitive superiority, patent/proprietary status, material composition, performance, scarcity and return projections remain unverified proposals.
+
+The five-family product structure supersedes the earlier incomplete Legacy-only working scope. This does not approve a final release assortment or website visual direction.
+
+
 ## 2026-09-28 Foundation v1.0.0
 
 Authority: Kay's explicit instruction in the FANN website development conversation. The current bounded foundation is approved; unresolved product and website choices remain open.

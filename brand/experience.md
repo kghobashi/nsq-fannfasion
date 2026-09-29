@@ -1,13 +1,15 @@
 # Experience
 
-- Governing outcome: communicate confidence, comfort and identity through a clear fashion experience.
-- Proposed visitor journey: encounter the brand, understand the garment, see the reason to believe, choose the relevant product or line, gain fit reassurance, and take a clear next step.
-- Proposed composition principle: let the garment and its material detail carry the visual identity while typography makes the story easy to read.
-- Proposed interaction principle: use motion when it helps explain the brand or product, and retain a complete readable reduced-motion experience.
-- Proposed mobile principle: compose for the small screen explicitly rather than shrinking a desktop hero.
-- Proposed conversion principle: keep the next action accessible while the narrative unfolds.
+- Governing outcome: a visitor understands FANN's relationship between confidence, comfort and personal expression, then finds the collection that fits their character.
+- Proposed journey: brand promise → collection choice → design intent → garment preview → fit and evidence when available → appropriate next action.
+- Proposed governing visual idea: precise garment structure emerging from quiet space, with warm accents used sparingly.
+- Proposed core/statement hierarchy: introduce Silver, Gold and Platinum as everyday expressions; give Black and Legacy distinct editorial moments without making the everyday products depend on mythology.
+- Proposed Legacy interpretation: chosen personal values, expressed with refinement rather than costume, aggression or eroticism.
+- Proposed mobile behavior: clear text and image hierarchy, short readable sections and deliberate collection navigation.
+- Proposed motion: restrained transitions that preserve a complete static and reduced-motion experience.
+- Current invitation: explore the concepts; activate signup only when consent text, privacy information and delivery have been configured.
 
-These experience proposals are preparation for concept review. They do not constitute a selected visual direction, sitemap or website launch approval.
+The visual direction and composition remain open for the next image-based concept review. An attached product render is a source reference, not a selected website layout. See docs/experience-contract.md for narrative and content requirements.
 
-OPEN QUESTION: Is the first site a showcase/waitlist, preorder experience or available-to-buy store?
-OPEN QUESTION: Which garment and customer problem anchor the opening story?
+OPEN QUESTION: Selection of the website visual concept.
+OPEN QUESTION: Whether the public first release is a showcase, waitlist, preorder or stocked store.

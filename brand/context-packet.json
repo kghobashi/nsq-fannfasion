@@ -1,6 +1,6 @@
 {
   "brand": "FANN Fashion",
-  "context_version": "1.0.0",
+  "context_version": "1.1.0",
   "source": "github",
   "loaded_sections": [
     "identity.md",
@@ -14,11 +14,13 @@
   "locked": {
     "identity": [
       "FANN Fashion is a men's fashion brand within the NSQ.global portfolio, entering through premium underwear.",
-      "Its core human experience is confidence, with comfort and personal identity central to how the wearer feels.",
+      "Its core experience combines confidence, comfort and personal identity.",
       "The approved brand promise is: Designed for Confidence. Engineered for Comfort.",
       "The approved tagline is: Support in Style.",
-      "Legacy Line remains the currently retained product line; its exact launch assortment is not yet specified.",
-      "The current launch and website exclude X Edition and erotic-themed underwear."
+      "The current collection architecture is Silver Line, Gold Line, Platinum Line, Black Line and Legacy Line, with Seasonal Editions reserved for the next image batch.",
+      "The current launch and website exclude X Edition and erotic-themed underwear.",
+      "Warrior Line is a historical source name; use Legacy Line in current product, collection and website naming.",
+      "The user-supplied FANN_Logo-2.png is the approved mark for initial use; retain Bank Gothic and Montserrat as the typography pairing."
     ],
     "voice": [
       "Brand promise: Designed for Confidence. Engineered for Comfort.",
@@ -41,31 +43,47 @@
     ]
   },
   "principles": [
-    "Confidence is the central experience the brand should enable.",
-    "Comfort must be expressed through the actual garment, fit and construction as well as the brand promise.",
-    "Fashion and intimate apparel should reinforce personal identity and how the wearer feels.",
-    "Product facts must support published claims about performance, materials or manufacturing."
+    "Confidence begins within. The first layer should reinforce composure and a sense of self, whether or not anyone else sees it.",
+    "Comfort is a design requirement. Visual impact must be reconciled with fit, movement, seam feel and sustained wear through physical development.",
+    "Form should have purpose. Proportion, panel lines, texture and details should work together rather than accumulate decoration.",
+    "Identity is personal. Different collections offer different degrees of expression within a coherent FANN design language.",
+    "Strength is self-directed. Legacy explores discipline, honour, resilience, vision, courage and responsibility through narrative and form.",
+    "Refined expression is deliberate. Confidence does not depend on shock, aggression, or conspicuous branding.",
+    "Product truth matters. Describe development intentions as intentions; publish material and performance claims only when substantiated."
   ],
   "experience": [
-    "Governing outcome: communicate confidence, comfort and identity through a clear fashion experience.",
-    "Proposed visitor journey: encounter the brand, understand the garment, see the reason to believe, choose the relevant product or line, gain fit reassurance, and take a clear next step.",
-    "Proposed composition principle: let the garment and its material detail carry the visual identity while typography makes the story easy to read.",
-    "Proposed interaction principle: use motion when it helps explain the brand or product, and retain a complete readable reduced-motion experience.",
-    "Proposed mobile principle: compose for the small screen explicitly rather than shrinking a desktop hero.",
-    "Proposed conversion principle: keep the next action accessible while the narrative unfolds."
+    "Governing outcome: a visitor understands FANN's relationship between confidence, comfort and personal expression, then finds the collection that fits their character.",
+    "Proposed journey: brand promise → collection choice → design intent → garment preview → fit and evidence when available → appropriate next action.",
+    "Proposed governing visual idea: precise garment structure emerging from quiet space, with warm accents used sparingly.",
+    "Proposed core/statement hierarchy: introduce Silver, Gold and Platinum as everyday expressions; give Black and Legacy distinct editorial moments without making the everyday products depend on mythology.",
+    "Proposed Legacy interpretation: chosen personal values, expressed with refinement rather than costume, aggression or eroticism.",
+    "Proposed mobile behavior: clear text and image hierarchy, short readable sections and deliberate collection navigation.",
+    "Proposed motion: restrained transitions that preserve a complete static and reduced-motion experience.",
+    "Current invitation: explore the concepts; activate signup only when consent text, privacy information and delivery have been configured."
   ],
   "website": [
-    "Governing content: Bank Gothic and Montserrat; the promise Designed for Confidence. Engineered for Comfort.; the tagline Support in Style.",
-    "Scope constraint: no X Edition navigation, products, imagery, copy or coming-soon teaser in the current website.",
-    "Scope constraint: no erotic-themed underwear or erotic-themed campaign direction for the current release.",
-    "Retained line: Legacy Line; exact products and launch availability remain unspecified.",
-    "Recorded commerce direction: Shopify. A working FANN Shopify store has not been verified.",
-    "Intended primary public domain: fann.fashion. Ownership is recorded in prior sources; current DNS and deployment are unverified.",
-    "Secondary recorded domain: fannfashion.com; redirect behaviour remains unverified.",
-    "Implementation constraint: no invented prices, products, stock, technical claims, reviews, certifications, shipping promises or returns terms.",
-    "Preparation sequence: settle the minimum product and launch inputs, review concept imagery, select one direction, then implement and verify the site."
+    "Governing identity: Bank Gothic, Montserrat and the supplied geometric FANN mark.",
+    "Exact promise: Designed for Confidence. Engineered for Comfort.",
+    "Exact tagline: Support in Style.",
+    "Platform: native Shopify. The connected development store is 8gdtem-bi.myshopify.com, initially named My Store 5, with Horizon installed as the MAIN theme.",
+    "Content phase: prepare the catalogue, collection architecture, editorial copy and navigation now; choose website concept direction next; build the editable theme skeleton after that.",
+    "All product images supplied on 29 September are concept renders, not final garment photography or proof of manufacture.",
+    "Catalogue structure: Silver, Gold and Platinum have colour variants; the four Black designs and six supplied Legacy archetypes are separate products.",
+    "Gold has six provisional colour directions. Only Maroon has an individual garment render; the other five are represented by the palette board.",
+    "Seasonal Editions is reserved and unpublished pending the next source batch.",
+    "X Edition is excluded from current products, pages, imagery and navigation.",
+    "Draft products and unpublished editorial content do not authorize checkout, preorders, publishing or a production launch.",
+    "All customer-facing headings, body text, images, links, spacing and colour controls must be editable through native Shopify theme settings, sections and blocks."
   ],
   "constraints": [
+    "Preserve the exact promise, tagline, fonts and current X Edition exclusion from 28 September.",
+    "Extend the draft catalogue to Silver, Gold, Platinum, Black and Legacy using the supplied references; reserve Seasonal Editions for the next batch.",
+    "Keep the source's Warrior archetypes under the current Legacy Line name.",
+    "Gold has six colours; the image board supplies provisional Black, Ivory, Purple, Blue, Maroon and Green directions. Names and shades remain open.",
+    "Treat all underwear images as concept renders and every garment as still in development.",
+    "Use the supplied FANN logo for initial implementation.",
+    "Use native Shopify sections, blocks and JSON templates so Kay can edit small content and visual details.",
+    "Create draft products and unpublished collection/page content without inventing retail prices, size ranges, stock, product claims or sales policies.",
     "Approved display typography: Bank Gothic.",
     "Approved body/UI typography: Montserrat.",
     "Approved brand promise, exact wording: Designed for Confidence. Engineered for Comfort.",
@@ -74,17 +92,16 @@
     "Use the dedicated repository for the consolidated brand and future website work."
   ],
   "open_questions": [
-    "OPEN QUESTION: What is the exact launch product range and first customer segment?",
-    "OPEN QUESTION: Is the suggested Arabic art association part of the approved origin story? It remains unconfirmed.",
+    "OPEN QUESTION: Final launch market, language, currency and release sequence.",
+    "OPEN QUESTION: The suggested Arabic art association remains unconfirmed; do not invent an origin story.",
     "OPEN QUESTION: Hero supporting copy and the final invitation depend on the launch product and website mode.",
-    "OPEN QUESTION: Final vector wordmark, exact lettering/case rules and permitted logo variants are still needed.",
-    "OPEN QUESTION: Campaign casting, garment photography and approved production asset rights are not yet specified.",
-    "OPEN QUESTION: Is the first site a showcase/waitlist, preorder experience or available-to-buy store?",
-    "OPEN QUESTION: Which garment and customer problem anchor the opening story?",
-    "OPEN QUESTION: First website mode, launch market, language and currency scope.",
-    "OPEN QUESTION: Launch garments, materials, colours, waistband/branding, sizing and fit evidence.",
-    "OPEN QUESTION: Product claims, pricing, availability, fulfilment and intimate-apparel exchange/return rules.",
-    "OPEN QUESTION: Shopify store identity/access, theme route, production assets and final launch timing.",
-    "OPEN QUESTION: The full founder-approved brand bible is needed to recover the deeper philosophy and any established manifesto accurately."
+    "OPEN QUESTION: Vector master, final full/short wordmark lockups and clear-space rules.",
+    "OPEN QUESTION: Final campaign casting, consistent garment photography/renders and production asset review.",
+    "OPEN QUESTION: Selection of the website visual concept.",
+    "OPEN QUESTION: Whether the public first release is a showcase, waitlist, preorder or stocked store.",
+    "OPEN QUESTION: Website concept selection and final homepage composition.",
+    "OPEN QUESTION: Final sizes, materials, supported benefits, prices, availability, delivery, returns and support operations.",
+    "OPEN QUESTION: Production font rights, refined assets and final wordmark lockup.",
+    "OPEN QUESTION: Final garment materials, construction, fit, sample testing and performance evidence."
   ]
 }

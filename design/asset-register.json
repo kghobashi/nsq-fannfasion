@@ -31,7 +31,12 @@
     },
     {
       "id": "bank-gothic-font-files",
-      "source_names": ["bgothm.woff2", "bgothl.woff2", "bgothm.woff", "bgothl.woff"],
+      "source_names": [
+        "bgothm.woff2",
+        "bgothl.woff2",
+        "bgothm.woff",
+        "bgothl.woff"
+      ],
       "kind": "font-candidates",
       "status": "file-metadata-known",
       "production_use": "Confirm internal family names, browser rendering and web/public distribution rights",
@@ -39,11 +44,13 @@
     }
   ],
   "missing_production_assets": [
-    "Approved vector wordmark and variants",
-    "Accurate launch garment references and technical drawings",
-    "Product front/back/detail photography or approved renders",
-    "Verified fit and size artwork",
-    "Approved packaging artwork",
-    "Campaign casting and image-rights record"
-  ]
+    "Final vector logo and wordmark lockups",
+    "Finalized consistent garment images with correct FANN branding",
+    "Gold individual renders for five remaining colours",
+    "Seasonal concept batch",
+    "Validated fit/size and technical diagrams",
+    "Final packaging and campaign assets"
+  ],
+  "latest_intake": "2026-09-29-asset-intake.json",
+  "current_asset_status": "Logo and initial product concept images received; production refinement remains pending."
 }

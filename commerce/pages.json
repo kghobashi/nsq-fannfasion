@@ -1,0 +1,222 @@
+[
+  {
+    "handle": "about-fann",
+    "title": "About FANN",
+    "isPublished": false,
+    "copy_status": "editorial-draft",
+    "body": "<h2>Confidence begins underneath.</h2><p>FANN is a men’s fashion brand beginning with the first layer: underwear. We believe what you wear closest should support the way you feel, move and express yourself.</p><h2>A considered foundation.</h2><p>Our direction brings together clear form, comfort-led design and personal identity. Every line has its own expression, from the restraint of Silver to the narrative character of Legacy.</p><h2>Strength, defined by you.</h2><p>Confidence is personal. It can be quiet, deliberate, expressive or resilient. FANN creates space for those differences through a shared design language of structure and considered detail.</p><h2>Designed for Confidence. Engineered for Comfort.</h2><p>Our promise sets the standard for development: the visual idea must work as a garment. Fit, materials and construction will be evaluated as the concepts become physical products.</p><h2>Support in Style.</h2><p>A first layer with purpose. A personal expression, worn close.</p>",
+    "blocks": [
+      {
+        "id": "about_fann_1",
+        "kind": "rich-text",
+        "heading": "Confidence begins underneath.",
+        "text": "FANN is a men’s fashion brand beginning with the first layer: underwear. We believe what you wear closest should support the way you feel, move and express yourself.",
+        "editable": true
+      },
+      {
+        "id": "about_fann_2",
+        "kind": "rich-text",
+        "heading": "A considered foundation.",
+        "text": "Our direction brings together clear form, comfort-led design and personal identity. Every line has its own expression, from the restraint of Silver to the narrative character of Legacy.",
+        "editable": true
+      },
+      {
+        "id": "about_fann_3",
+        "kind": "rich-text",
+        "heading": "Strength, defined by you.",
+        "text": "Confidence is personal. It can be quiet, deliberate, expressive or resilient. FANN creates space for those differences through a shared design language of structure and considered detail.",
+        "editable": true
+      },
+      {
+        "id": "about_fann_4",
+        "kind": "rich-text",
+        "heading": "Designed for Confidence. Engineered for Comfort.",
+        "text": "Our promise sets the standard for development: the visual idea must work as a garment. Fit, materials and construction will be evaluated as the concepts become physical products.",
+        "editable": true
+      },
+      {
+        "id": "about_fann_5",
+        "kind": "rich-text",
+        "heading": "Support in Style.",
+        "text": "A first layer with purpose. A personal expression, worn close.",
+        "editable": true
+      }
+    ]
+  },
+  {
+    "handle": "design-philosophy",
+    "title": "Design Philosophy",
+    "isPublished": false,
+    "copy_status": "editorial-draft",
+    "body": "<h2>Form has a purpose.</h2><p>FANN starts with the relationship between the body and the garment. Proportion, panel lines and the placement of detail should contribute to a coherent design.</p><h2>Comfort is a design requirement.</h2><p>A striking silhouette is only a starting point. The development process must consider support, freedom of movement, seam feel and long-term wear before a design is ready for release.</p><h2>Identity is personal.</h2><p>The collections offer different degrees of expression. Legacy uses archetypes to explore chosen values; the everyday lines express the same philosophy with greater restraint.</p><h2>From concept to garment.</h2><p>The current images are concept renders. Final fabrics, construction, sizing and performance details will be confirmed through product development. Any product claims will reflect the finished, verified garment.</p>",
+    "blocks": [
+      {
+        "id": "design_philosophy_1",
+        "kind": "rich-text",
+        "heading": "Form has a purpose.",
+        "text": "FANN starts with the relationship between the body and the garment. Proportion, panel lines and the placement of detail should contribute to a coherent design.",
+        "editable": true
+      },
+      {
+        "id": "design_philosophy_2",
+        "kind": "rich-text",
+        "heading": "Comfort is a design requirement.",
+        "text": "A striking silhouette is only a starting point. The development process must consider support, freedom of movement, seam feel and long-term wear before a design is ready for release.",
+        "editable": true
+      },
+      {
+        "id": "design_philosophy_3",
+        "kind": "rich-text",
+        "heading": "Identity is personal.",
+        "text": "The collections offer different degrees of expression. Legacy uses archetypes to explore chosen values; the everyday lines express the same philosophy with greater restraint.",
+        "editable": true
+      },
+      {
+        "id": "design_philosophy_4",
+        "kind": "rich-text",
+        "heading": "From concept to garment.",
+        "text": "The current images are concept renders. Final fabrics, construction, sizing and performance details will be confirmed through product development. Any product claims will reflect the finished, verified garment.",
+        "editable": true
+      }
+    ]
+  },
+  {
+    "handle": "legacy",
+    "title": "The Legacy Story",
+    "isPublished": false,
+    "copy_status": "editorial-draft",
+    "body": "<h2>Strength, defined within.</h2><p>Legacy is FANN’s narrative collection: a series of concepts inspired by qualities we choose to embody. Its meaning comes from personal values, expressed through form and detail.</p><h2>The Pharaoh — Sovereignty</h2><p>The Pharaoh expresses sovereignty as self-direction: knowing what matters and choosing with intention. Fine gold patterning against a dark base gives this Legacy concept its visual character.</p><h2>The Spartan — Discipline</h2><p>The Spartan is an expression of discipline: a steady commitment to what you choose to become. Repeated geometric panels and a pared-back dark palette shape its character.</p><h2>The Samurai — Honour</h2><p>The Samurai takes honour as an inner standard. Layered lines and measured symmetry translate intention and precision into the Legacy design language.</p><h2>The Viking — Expansion</h2><p>The Viking expresses the courage to explore and the resolve to keep moving. Tonal pattern and a textured dark surface give the concept a grounded sense of momentum.</p><h2>The Gladiator — Resilience</h2><p>The Gladiator speaks to resilience: responding to difficulty without losing your sense of self. Its sculpted panels and compact silhouette translate that idea into a bold Legacy concept.</p><h2>The Knight — Protection</h2><p>The Knight defines strength through care and responsibility. Layered forms and structured lines give the concept a protective visual language without making a protective-performance claim.</p><h2>A collection in development.</h2><p>These six designs establish the initial direction. Final garments, release sequence and availability are still to be confirmed.</p>",
+    "blocks": [
+      {
+        "id": "legacy_1",
+        "kind": "rich-text",
+        "heading": "Strength, defined within.",
+        "text": "Legacy is FANN’s narrative collection: a series of concepts inspired by qualities we choose to embody. Its meaning comes from personal values, expressed through form and detail.",
+        "editable": true
+      },
+      {
+        "id": "legacy_2",
+        "kind": "rich-text",
+        "heading": "The Pharaoh — Sovereignty",
+        "text": "The Pharaoh expresses sovereignty as self-direction: knowing what matters and choosing with intention. Fine gold patterning against a dark base gives this Legacy concept its visual character.",
+        "editable": true
+      },
+      {
+        "id": "legacy_3",
+        "kind": "rich-text",
+        "heading": "The Spartan — Discipline",
+        "text": "The Spartan is an expression of discipline: a steady commitment to what you choose to become. Repeated geometric panels and a pared-back dark palette shape its character.",
+        "editable": true
+      },
+      {
+        "id": "legacy_4",
+        "kind": "rich-text",
+        "heading": "The Samurai — Honour",
+        "text": "The Samurai takes honour as an inner standard. Layered lines and measured symmetry translate intention and precision into the Legacy design language.",
+        "editable": true
+      },
+      {
+        "id": "legacy_5",
+        "kind": "rich-text",
+        "heading": "The Viking — Expansion",
+        "text": "The Viking expresses the courage to explore and the resolve to keep moving. Tonal pattern and a textured dark surface give the concept a grounded sense of momentum.",
+        "editable": true
+      },
+      {
+        "id": "legacy_6",
+        "kind": "rich-text",
+        "heading": "The Gladiator — Resilience",
+        "text": "The Gladiator speaks to resilience: responding to difficulty without losing your sense of self. Its sculpted panels and compact silhouette translate that idea into a bold Legacy concept.",
+        "editable": true
+      },
+      {
+        "id": "legacy_7",
+        "kind": "rich-text",
+        "heading": "The Knight — Protection",
+        "text": "The Knight defines strength through care and responsibility. Layered forms and structured lines give the concept a protective visual language without making a protective-performance claim.",
+        "editable": true
+      },
+      {
+        "id": "legacy_8",
+        "kind": "rich-text",
+        "heading": "A collection in development.",
+        "text": "These six designs establish the initial direction. Final garments, release sequence and availability are still to be confirmed.",
+        "editable": true
+      }
+    ]
+  },
+  {
+    "handle": "size-and-care",
+    "title": "Size & Care",
+    "isPublished": false,
+    "copy_status": "holding-copy-awaiting-specifications",
+    "body": "<h2>Fit comes first.</h2><p>The first layer should feel considered from the moment you put it on. Product-specific measurements and fit guidance will accompany the finished FANN garments.</p><h2>Our size guide is in development.</h2><p>Final size ranges and measurements will be added after the patterns and graded samples are approved. We will not ask you to rely on a generic size chart.</p><h2>Care, matched to the garment.</h2><p>Fabric composition and tested care instructions will be listed for each finished product. These details remain in development for the current concepts.</p>",
+    "blocks": [
+      {
+        "id": "size_and_care_1",
+        "kind": "rich-text",
+        "heading": "Fit comes first.",
+        "text": "The first layer should feel considered from the moment you put it on. Product-specific measurements and fit guidance will accompany the finished FANN garments.",
+        "editable": true
+      },
+      {
+        "id": "size_and_care_2",
+        "kind": "rich-text",
+        "heading": "Our size guide is in development.",
+        "text": "Final size ranges and measurements will be added after the patterns and graded samples are approved. We will not ask you to rely on a generic size chart.",
+        "editable": true
+      },
+      {
+        "id": "size_and_care_3",
+        "kind": "rich-text",
+        "heading": "Care, matched to the garment.",
+        "text": "Fabric composition and tested care instructions will be listed for each finished product. These details remain in development for the current concepts.",
+        "editable": true
+      }
+    ]
+  },
+  {
+    "handle": "faq",
+    "title": "Frequently Asked Questions",
+    "isPublished": false,
+    "copy_status": "editorial-draft",
+    "body": "<h2>Are the images final products?</h2><p>No. They are concept renders showing the initial design direction. Materials, details, colours and construction may change during development.</p><h2>Can I order now?</h2><p>Orders are not open during this development phase. Availability and final product details will be announced when the collection is ready.</p><h2>Which collections are being developed?</h2><p>Silver, Gold, Platinum, Black and Legacy form the current structure. Seasonal Editions will be added as their concepts are reviewed.</p><h2>Will all designs launch together?</h2><p>The release sequence is still being developed. A concept’s inclusion here does not confirm a release date.</p><h2>Where are size, delivery and returns details?</h2><p>Size guidance will follow approved samples. Delivery regions, timing and returns terms will be confirmed before orders open.</p>",
+    "blocks": [
+      {
+        "id": "faq_1",
+        "kind": "rich-text",
+        "heading": "Are the images final products?",
+        "text": "No. They are concept renders showing the initial design direction. Materials, details, colours and construction may change during development.",
+        "editable": true
+      },
+      {
+        "id": "faq_2",
+        "kind": "rich-text",
+        "heading": "Can I order now?",
+        "text": "Orders are not open during this development phase. Availability and final product details will be announced when the collection is ready.",
+        "editable": true
+      },
+      {
+        "id": "faq_3",
+        "kind": "rich-text",
+        "heading": "Which collections are being developed?",
+        "text": "Silver, Gold, Platinum, Black and Legacy form the current structure. Seasonal Editions will be added as their concepts are reviewed.",
+        "editable": true
+      },
+      {
+        "id": "faq_4",
+        "kind": "rich-text",
+        "heading": "Will all designs launch together?",
+        "text": "The release sequence is still being developed. A concept’s inclusion here does not confirm a release date.",
+        "editable": true
+      },
+      {
+        "id": "faq_5",
+        "kind": "rich-text",
+        "heading": "Where are size, delivery and returns details?",
+        "text": "Size guidance will follow approved samples. Delivery regions, timing and returns terms will be confirmed before orders open.",
+        "editable": true
+      }
+    ]
+  }
+]

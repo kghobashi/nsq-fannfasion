@@ -1,0 +1,91 @@
+[
+  {
+    "key": "silver",
+    "title": "Silver Line",
+    "handle": "silver-line",
+    "headline": "The Foundation of Confidence",
+    "descriptionHtml": "<h2>The Foundation of Confidence</h2><p>A considered first layer for everyday life. Silver Line brings clean lines and restrained detail to FANN’s vision of daily confidence.</p><p>White, Black and Navy form the initial colour direction. The collection begins with an understated expression of the FANN design language.</p><p><em>Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release.</em></p>",
+    "image_filename": "_Silverline Black.jpg",
+    "seo": {
+      "title": "Silver Line | FANN Fashion",
+      "description": "A considered first layer for everyday life. Silver Line brings clean lines and restrained detail to FANN’s vision of daily confidence."
+    },
+    "publication": "unpublished",
+    "source_status": "concept-draft",
+    "image_url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-silverline-black.jpg?v=1790697462"
+  },
+  {
+    "key": "gold",
+    "title": "Gold Line",
+    "handle": "gold-line",
+    "headline": "Precision in Motion",
+    "descriptionHtml": "<h2>Precision in Motion</h2><p>A stronger expression of the everyday essential. Gold Line combines sculpted lines, rich colour and warm accents in a design direction shaped around movement.</p><p>Six colours give this core collection its range: Maroon, Black, Ivory, Purple, Blue and Green. Names and exact shades remain provisional.</p><p><em>Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release.</em></p>",
+    "image_filename": "_Gold Maroon.png",
+    "seo": {
+      "title": "Gold Line | FANN Fashion",
+      "description": "A stronger expression of the everyday essential. Gold Line combines sculpted lines, rich colour and warm accents in a design direction shaped around movement."
+    },
+    "publication": "unpublished",
+    "source_status": "concept-draft",
+    "image_url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-gold-maroon.png?v=1790697444"
+  },
+  {
+    "key": "platinum",
+    "title": "Platinum Line",
+    "handle": "platinum-line",
+    "headline": "The Art of Comfort",
+    "descriptionHtml": "<h2>The Art of Comfort</h2><p>Quiet detail. Refined presence. Platinum Line explores the more considered side of the FANN wardrobe through subtle pattern, delicate accents and a restrained palette.</p><p>Steel Blue, Charcoal and Ivory White establish its initial colour direction. Final fabrics and finishes are still in development.</p><p><em>Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release.</em></p>",
+    "image_filename": "__Platinum Steel blue.jpg",
+    "seo": {
+      "title": "Platinum Line | FANN Fashion",
+      "description": "Quiet detail. Refined presence. Platinum Line explores the more considered side of the FANN wardrobe through subtle pattern, delicate accents and a restrained palette."
+    },
+    "publication": "unpublished",
+    "source_status": "concept-draft",
+    "image_url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-platinum-steel-blue.jpg?v=1790697698"
+  },
+  {
+    "key": "black",
+    "title": "Black Line",
+    "handle": "black-line",
+    "headline": "Controlled Intensity",
+    "descriptionHtml": "<h2>Controlled Intensity</h2><p>Dark tones, sculptural form and deliberate contrast. Black Line explores a bolder side of FANN through four distinct concepts: Velvet, Eclipse, Mesh and Monolith.</p><p>Each design has its own expression. Their shared intention is controlled presence, with everyday wearability still to be resolved through development.</p><p><em>Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release.</em></p>",
+    "image_filename": "_Black Monolith.png",
+    "seo": {
+      "title": "Black Line | FANN Fashion",
+      "description": "Dark tones, sculptural form and deliberate contrast. Black Line explores a bolder side of FANN through four distinct concepts: Velvet, Eclipse, Mesh and Monolith."
+    },
+    "publication": "unpublished",
+    "source_status": "concept-draft",
+    "image_url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-black-monolith.png?v=1790697406"
+  },
+  {
+    "key": "legacy",
+    "title": "Legacy Line",
+    "handle": "legacy-line",
+    "headline": "Strength, Defined Within",
+    "descriptionHtml": "<h2>Strength, Defined Within</h2><p>Legacy translates qualities we choose to live by into a personal design language. Discipline. Honour. Resilience. Vision. Courage. Care.</p><p>The first six concepts draw on Spartan, Samurai, Gladiator, Pharaoh, Viking and Knight archetypes. These are interpretations of personal values, not replicas of historical clothing.</p><p><em>Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release.</em></p>",
+    "image_filename": "_Warriorline Pharaoh.png",
+    "seo": {
+      "title": "Legacy Line | FANN Fashion",
+      "description": "Legacy translates qualities we choose to live by into a personal design language. Discipline. Honour. Resilience. Vision. Courage. Care."
+    },
+    "publication": "unpublished",
+    "source_status": "concept-draft",
+    "image_url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-legacy-pharaoh.png?v=1790697605"
+  },
+  {
+    "key": "seasonal",
+    "title": "Seasonal Editions",
+    "handle": "seasonal-editions",
+    "headline": "A Different Expression, in Season",
+    "descriptionHtml": "<h2>A Different Expression, in Season</h2><p>Occasion-led interpretations of the FANN design language. Seasonal Editions explores new colour, character and detail through the moments that shape the year.</p><p>Discover each story as the collection develops.</p>",
+    "image_filename": null,
+    "seo": {
+      "title": "Seasonal Editions | FANN Fashion",
+      "description": "Seasonal Editions will explore occasion-led expressions of the FANN design language."
+    },
+    "publication": "unpublished",
+    "source_status": "reserved-awaiting-assets"
+  }
+]

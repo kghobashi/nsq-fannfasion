@@ -1,0 +1,921 @@
+{
+  "version": "1.0.0",
+  "prepared_at": "2026-09-29",
+  "store_domain": "8gdtem-bi.myshopify.com",
+  "stage": "draft-catalogue",
+  "count": 13,
+  "variant_count": 22,
+  "products": [
+    {
+      "key": "silver-line",
+      "title": "Silver Line",
+      "handle": "silver-line",
+      "vendor": "FANN Fashion",
+      "productType": "Men’s underwear",
+      "status": "DRAFT",
+      "line": "silver",
+      "descriptionHtml": "<p><strong>The Foundation of Confidence</strong></p><p>Clean lines and considered detail form a quiet foundation for the day. Silver Line is FANN’s everyday collection, expressed through a restrained palette and a structured silhouette.</p><p>Choose White, Black or Navy as the starting point for your personal expression.</p><p><em>Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release.</em></p>",
+      "headline": "The Foundation of Confidence",
+      "seo": {
+        "title": "Silver Line | FANN Fashion",
+        "description": "Clean lines and considered detail form a quiet foundation for the day."
+      },
+      "tags": [
+        "fann",
+        "fann-line-silver",
+        "concept-render",
+        "design-in-development",
+        "price-pending",
+        "size-pending",
+        "not-for-sale"
+      ],
+      "options": [
+        "Colour"
+      ],
+      "variants": [
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "White"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-SILVER-LINE-01",
+          "inventoryItem": {
+            "tracked": true
+          }
+        },
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Black"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-SILVER-LINE-02",
+          "inventoryItem": {
+            "tracked": true
+          }
+        },
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Navy"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-SILVER-LINE-03",
+          "inventoryItem": {
+            "tracked": true
+          }
+        }
+      ],
+      "price_state": "zero-valued draft placeholder; not approved retail pricing",
+      "size_state": "not specified; do not invent size variants",
+      "images": [
+        {
+          "filename": "_Silverline White.jpg",
+          "alt": "FANN Silver Line White underwear concept render; final design pending",
+          "variant_colour": "White",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-silverline-white.jpg?v=1790697522"
+        },
+        {
+          "filename": "_Silverline Black.jpg",
+          "alt": "FANN Silver Line Black underwear concept render; final design pending",
+          "variant_colour": "Black",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-silverline-black.jpg?v=1790697462"
+        },
+        {
+          "filename": "_Silverline Navy.jpg",
+          "alt": "FANN Silver Line Navy underwear concept render; final design pending",
+          "variant_colour": "Navy",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-silverline-navy.jpg?v=1790697507"
+        }
+      ],
+      "development_notes": [
+        "Source proposes Egyptian cotton; fibre composition and origin are not confirmed.",
+        "Harmonize panel layout and inseam across colour variants; current renders differ.",
+        "Replace generated waistband lettering with the approved FANN mark."
+      ]
+    },
+    {
+      "key": "gold-line",
+      "title": "Gold Line",
+      "handle": "gold-line",
+      "vendor": "FANN Fashion",
+      "productType": "Men’s underwear",
+      "status": "DRAFT",
+      "line": "gold",
+      "descriptionHtml": "<p><strong>Precision in Motion</strong></p><p>Rich colour meets a precise graphic structure. Gold Line explores a more expressive daily essential, with sculpted panel lines and warm accents that trace the form.</p><p>The initial palette spans Maroon, Black, Ivory, Purple, Blue and Green. Maroon is the first garment concept; the palette reference establishes the other five colour directions.</p><p><em>Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release.</em></p>",
+      "headline": "Precision in Motion",
+      "seo": {
+        "title": "Gold Line | FANN Fashion",
+        "description": "Rich colour meets a precise graphic structure."
+      },
+      "tags": [
+        "fann",
+        "fann-line-gold",
+        "concept-render",
+        "design-in-development",
+        "price-pending",
+        "size-pending",
+        "not-for-sale"
+      ],
+      "options": [
+        "Colour"
+      ],
+      "variants": [
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Maroon"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-GOLD-LINE-01",
+          "inventoryItem": {
+            "tracked": true
+          }
+        },
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Black"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-GOLD-LINE-02",
+          "inventoryItem": {
+            "tracked": true
+          }
+        },
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Ivory"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-GOLD-LINE-03",
+          "inventoryItem": {
+            "tracked": true
+          }
+        },
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Purple"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-GOLD-LINE-04",
+          "inventoryItem": {
+            "tracked": true
+          }
+        },
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Blue"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-GOLD-LINE-05",
+          "inventoryItem": {
+            "tracked": true
+          }
+        },
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Green"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-GOLD-LINE-06",
+          "inventoryItem": {
+            "tracked": true
+          }
+        }
+      ],
+      "price_state": "zero-valued draft placeholder; not approved retail pricing",
+      "size_state": "not specified; do not invent size variants",
+      "images": [
+        {
+          "filename": "_Gold Maroon.png",
+          "alt": "FANN Gold Line Maroon underwear concept render; final design pending",
+          "variant_colour": "Maroon",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-gold-maroon.png?v=1790697444"
+        },
+        {
+          "filename": "20251010_201726738_iOS.png",
+          "alt": "Gold Line six-colour palette reference: Black, Ivory, Purple, Blue, Maroon and Green; not six finished garments",
+          "variant_colour": null,
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-20251010_201726738_ios.png?v=1790694953"
+        }
+      ],
+      "development_notes": [
+        "Only Maroon has an individual garment render.",
+        "Colour names are descriptive working labels, not approved marketing names.",
+        "Source proposes microfiber; composition is not confirmed.",
+        "Reduce luminous metallic effects and settle physically plausible trim in the refinement phase."
+      ]
+    },
+    {
+      "key": "platinum-line",
+      "title": "Platinum Line",
+      "handle": "platinum-line",
+      "vendor": "FANN Fashion",
+      "productType": "Men’s underwear",
+      "status": "DRAFT",
+      "line": "platinum",
+      "descriptionHtml": "<p><strong>The Art of Comfort</strong></p><p>Fine pattern, subtle accents and a quieter palette define Platinum Line. This collection explores refinement through the relationship between texture, proportion and detail.</p><p>The initial colour direction pairs Steel Blue, Charcoal and Ivory White.</p><p><em>Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release.</em></p>",
+      "headline": "The Art of Comfort",
+      "seo": {
+        "title": "Platinum Line | FANN Fashion",
+        "description": "Fine pattern, subtle accents and a quieter palette define Platinum Line."
+      },
+      "tags": [
+        "fann",
+        "fann-line-platinum",
+        "concept-render",
+        "design-in-development",
+        "price-pending",
+        "size-pending",
+        "not-for-sale"
+      ],
+      "options": [
+        "Colour"
+      ],
+      "variants": [
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Steel Blue"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-PLATINUM-LINE-01",
+          "inventoryItem": {
+            "tracked": true
+          }
+        },
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Charcoal"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-PLATINUM-LINE-02",
+          "inventoryItem": {
+            "tracked": true
+          }
+        },
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Ivory White"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-PLATINUM-LINE-03",
+          "inventoryItem": {
+            "tracked": true
+          }
+        }
+      ],
+      "price_state": "zero-valued draft placeholder; not approved retail pricing",
+      "size_state": "not specified; do not invent size variants",
+      "images": [
+        {
+          "filename": "__Platinum Steel blue.jpg",
+          "alt": "FANN Platinum Line Steel Blue underwear concept render; final design pending",
+          "variant_colour": "Steel Blue",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-platinum-steel-blue.jpg?v=1790697698"
+        },
+        {
+          "filename": "__Platinum Charcoal.jpg",
+          "alt": "FANN Platinum Line Charcoal underwear concept render; final design pending",
+          "variant_colour": "Charcoal",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-platinum-charcoal.jpg?v=1790697662"
+        },
+        {
+          "filename": "__Platinum Ivory White.jpg",
+          "alt": "FANN Platinum Line Ivory White underwear concept render; final design pending",
+          "variant_colour": "Ivory White",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-platinum-ivory-white.jpg?v=1790697678"
+        }
+      ],
+      "development_notes": [
+        "Silk and cashmere are development intentions in the source, not verified composition.",
+        "Harmonize garment shape and detailing across colours.",
+        "Remove generated or unrelated label text before release."
+      ]
+    },
+    {
+      "key": "black-velvet",
+      "title": "Black Line — Velvet",
+      "handle": "black-velvet",
+      "vendor": "FANN Fashion",
+      "productType": "Men’s underwear",
+      "status": "DRAFT",
+      "line": "black",
+      "descriptionHtml": "<p><strong>A Softer Intensity</strong></p><p>A deep black surface and a restrained silhouette give Velvet its quiet presence. The concept explores richness through texture rather than added ornament.</p><p><em>Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release.</em></p>",
+      "headline": "A Softer Intensity",
+      "seo": {
+        "title": "Black Line — Velvet | FANN Fashion",
+        "description": "A deep black surface and a restrained silhouette give Velvet its quiet presence. The concept explores richness through texture rather than added ornament."
+      },
+      "tags": [
+        "fann",
+        "fann-line-black",
+        "concept-render",
+        "design-in-development",
+        "price-pending",
+        "size-pending",
+        "not-for-sale"
+      ],
+      "options": [
+        "Colour"
+      ],
+      "variants": [
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Black"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-BLACK-VELVET-01",
+          "inventoryItem": {
+            "tracked": true
+          }
+        }
+      ],
+      "price_state": "zero-valued draft placeholder; not approved retail pricing",
+      "size_state": "not specified; do not invent size variants",
+      "images": [
+        {
+          "filename": "_Black velvet.png",
+          "alt": "FANN Black Line Velvet concept render; final design pending",
+          "variant_colour": "Black",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-black-velvet.png?v=1790697424"
+        }
+      ],
+      "development_notes": [
+        "The name describes the concept; velvet fibre/pile construction is not verified. The waistband reads AMANI and must be replaced."
+      ]
+    },
+    {
+      "key": "black-eclipse",
+      "title": "Black Line — Eclipse",
+      "handle": "black-eclipse",
+      "vendor": "FANN Fashion",
+      "productType": "Men’s underwear",
+      "status": "DRAFT",
+      "line": "black",
+      "descriptionHtml": "<p><strong>Form, Traced in Light</strong></p><p>Eclipse explores a compact silhouette, directional ribs and a fine warm outline. Its contrast between dark form and light defines the concept’s character.</p><p><em>Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release.</em></p>",
+      "headline": "Form, Traced in Light",
+      "seo": {
+        "title": "Black Line — Eclipse | FANN Fashion",
+        "description": "Eclipse explores a compact silhouette, directional ribs and a fine warm outline. Its contrast between dark form and light defines the concept’s character."
+      },
+      "tags": [
+        "fann",
+        "fann-line-black",
+        "concept-render",
+        "design-in-development",
+        "price-pending",
+        "size-pending",
+        "not-for-sale"
+      ],
+      "options": [
+        "Colour"
+      ],
+      "variants": [
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Black"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-BLACK-ECLIPSE-01",
+          "inventoryItem": {
+            "tracked": true
+          }
+        }
+      ],
+      "price_state": "zero-valued draft placeholder; not approved retail pricing",
+      "size_state": "not specified; do not invent size variants",
+      "images": [
+        {
+          "filename": "_Black Eclipse.png",
+          "alt": "FANN Black Line Eclipse concept render; final design pending",
+          "variant_colour": "Black",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-black-eclipse.png?v=1790694999"
+        }
+      ],
+      "development_notes": [
+        "Glow is an image effect, not a promise of illuminated garments. Final silhouette and trim must be made manufacturable."
+      ]
+    },
+    {
+      "key": "black-mesh",
+      "title": "Black Line — Mesh",
+      "handle": "black-mesh",
+      "vendor": "FANN Fashion",
+      "productType": "Men’s underwear",
+      "status": "DRAFT",
+      "line": "black",
+      "descriptionHtml": "<p><strong>Structure and Contrast</strong></p><p>Mesh studies the meeting of open texture and opaque form. The reference explores several panel arrangements within a structured, all-black design language.</p><p><em>Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release.</em></p>",
+      "headline": "Structure and Contrast",
+      "seo": {
+        "title": "Black Line — Mesh | FANN Fashion",
+        "description": "Mesh studies the meeting of open texture and opaque form. The reference explores several panel arrangements within a structured, all-black design language."
+      },
+      "tags": [
+        "fann",
+        "fann-line-black",
+        "concept-render",
+        "design-in-development",
+        "price-pending",
+        "size-pending",
+        "not-for-sale"
+      ],
+      "options": [
+        "Colour"
+      ],
+      "variants": [
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Black"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-BLACK-MESH-01",
+          "inventoryItem": {
+            "tracked": true
+          }
+        }
+      ],
+      "price_state": "zero-valued draft placeholder; not approved retail pricing",
+      "size_state": "not specified; do not invent size variants",
+      "images": [
+        {
+          "filename": "_Black Mesh.png",
+          "alt": "FANN Black Line Mesh concept render; final design pending",
+          "variant_colour": "Black",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-black-mesh.png?v=1790695019"
+        }
+      ],
+      "development_notes": [
+        "The image is a montage of alternatives, not a five-pack or five approved SKUs. Choose one pattern and validate modesty/opacity and comfort."
+      ]
+    },
+    {
+      "key": "black-monolith",
+      "title": "Black Line — Monolith",
+      "handle": "black-monolith",
+      "vendor": "FANN Fashion",
+      "productType": "Men’s underwear",
+      "status": "DRAFT",
+      "line": "black",
+      "descriptionHtml": "<p><strong>Quiet, Architectural Strength</strong></p><p>Monolith builds its identity through intersecting lines and an uninterrupted black palette. Geometry gives the concept its structure; restraint gives it presence.</p><p><em>Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release.</em></p>",
+      "headline": "Quiet, Architectural Strength",
+      "seo": {
+        "title": "Black Line — Monolith | FANN Fashion",
+        "description": "Monolith builds its identity through intersecting lines and an uninterrupted black palette."
+      },
+      "tags": [
+        "fann",
+        "fann-line-black",
+        "concept-render",
+        "design-in-development",
+        "price-pending",
+        "size-pending",
+        "not-for-sale"
+      ],
+      "options": [
+        "Colour"
+      ],
+      "variants": [
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Black"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-BLACK-MONOLITH-01",
+          "inventoryItem": {
+            "tracked": true
+          }
+        }
+      ],
+      "price_state": "zero-valued draft placeholder; not approved retail pricing",
+      "size_state": "not specified; do not invent size variants",
+      "images": [
+        {
+          "filename": "_Black Monolith.png",
+          "alt": "FANN Black Line Monolith concept render; final design pending",
+          "variant_colour": "Black",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-black-monolith.png?v=1790697406"
+        }
+      ],
+      "development_notes": [
+        "Material, seam construction, support and flexibility remain unverified."
+      ]
+    },
+    {
+      "key": "legacy-pharaoh",
+      "title": "Legacy — The Pharaoh",
+      "handle": "legacy-pharaoh",
+      "vendor": "FANN Fashion",
+      "productType": "Men’s underwear",
+      "status": "DRAFT",
+      "line": "legacy",
+      "descriptionHtml": "<p><strong>Vision, Held Within</strong></p><p>The Pharaoh expresses sovereignty as self-direction: knowing what matters and choosing with intention. Fine gold patterning against a dark base gives this Legacy concept its visual character.</p><p>Part of Legacy Line. Inspired by sovereignty, interpreted through FANN.</p><p><em>Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release.</em></p>",
+      "headline": "Vision, Held Within",
+      "seo": {
+        "title": "Legacy — The Pharaoh | FANN Fashion",
+        "description": "The Pharaoh expresses sovereignty as self-direction: knowing what matters and choosing with intention."
+      },
+      "tags": [
+        "fann",
+        "fann-line-legacy",
+        "concept-render",
+        "design-in-development",
+        "price-pending",
+        "size-pending",
+        "not-for-sale"
+      ],
+      "options": [
+        "Colour"
+      ],
+      "variants": [
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Black / gold"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-LEGACY-PHARAOH-01",
+          "inventoryItem": {
+            "tracked": true
+          }
+        }
+      ],
+      "price_state": "zero-valued draft placeholder; not approved retail pricing",
+      "size_state": "not specified; do not invent size variants",
+      "images": [
+        {
+          "filename": "_Warriorline Pharaoh.png",
+          "alt": "FANN Legacy The Pharaoh underwear concept render; final design pending",
+          "variant_colour": "Black / gold",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-legacy-pharaoh.png?v=1790697605"
+        }
+      ],
+      "development_notes": [
+        "Hero symbolism is narrative, not protective equipment.",
+        "The sculptural/leather-like render is not a confirmed material or construction specification.",
+        "Current image palette takes precedence for draft visual matching; bible palette remains a future direction.",
+        "No limited quantity, numbering, date or scarcity is approved."
+      ],
+      "archetype": {
+        "name": "The Pharaoh",
+        "value": "Sovereignty"
+      }
+    },
+    {
+      "key": "legacy-spartan",
+      "title": "Legacy — The Spartan",
+      "handle": "legacy-spartan",
+      "vendor": "FANN Fashion",
+      "productType": "Men’s underwear",
+      "status": "DRAFT",
+      "line": "legacy",
+      "descriptionHtml": "<p><strong>Mastery Begins Within</strong></p><p>The Spartan is an expression of discipline: a steady commitment to what you choose to become. Repeated geometric panels and a pared-back dark palette shape its character.</p><p>Part of Legacy Line. Inspired by discipline, interpreted through FANN.</p><p><em>Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release.</em></p>",
+      "headline": "Mastery Begins Within",
+      "seo": {
+        "title": "Legacy — The Spartan | FANN Fashion",
+        "description": "The Spartan is an expression of discipline: a steady commitment to what you choose to become."
+      },
+      "tags": [
+        "fann",
+        "fann-line-legacy",
+        "concept-render",
+        "design-in-development",
+        "price-pending",
+        "size-pending",
+        "not-for-sale"
+      ],
+      "options": [
+        "Colour"
+      ],
+      "variants": [
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Black"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-LEGACY-SPARTAN-01",
+          "inventoryItem": {
+            "tracked": true
+          }
+        }
+      ],
+      "price_state": "zero-valued draft placeholder; not approved retail pricing",
+      "size_state": "not specified; do not invent size variants",
+      "images": [
+        {
+          "filename": "_Warriorline Spartan.png",
+          "alt": "FANN Legacy The Spartan underwear concept render; final design pending",
+          "variant_colour": "Black",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-legacy-spartan.png?v=1790697624"
+        }
+      ],
+      "development_notes": [
+        "Hero symbolism is narrative, not protective equipment.",
+        "The sculptural/leather-like render is not a confirmed material or construction specification.",
+        "Current image palette takes precedence for draft visual matching; bible palette remains a future direction.",
+        "No limited quantity, numbering, date or scarcity is approved."
+      ],
+      "archetype": {
+        "name": "The Spartan",
+        "value": "Discipline"
+      }
+    },
+    {
+      "key": "legacy-samurai",
+      "title": "Legacy — The Samurai",
+      "handle": "legacy-samurai",
+      "vendor": "FANN Fashion",
+      "productType": "Men’s underwear",
+      "status": "DRAFT",
+      "line": "legacy",
+      "descriptionHtml": "<p><strong>Precision Is Respect</strong></p><p>The Samurai takes honour as an inner standard. Layered lines and measured symmetry translate intention and precision into the Legacy design language.</p><p>Part of Legacy Line. Inspired by honour, interpreted through FANN.</p><p><em>Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release.</em></p>",
+      "headline": "Precision Is Respect",
+      "seo": {
+        "title": "Legacy — The Samurai | FANN Fashion",
+        "description": "The Samurai takes honour as an inner standard. Layered lines and measured symmetry translate intention and precision into the Legacy design language."
+      },
+      "tags": [
+        "fann",
+        "fann-line-legacy",
+        "concept-render",
+        "design-in-development",
+        "price-pending",
+        "size-pending",
+        "not-for-sale"
+      ],
+      "options": [
+        "Colour"
+      ],
+      "variants": [
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Black"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-LEGACY-SAMURAI-01",
+          "inventoryItem": {
+            "tracked": true
+          }
+        }
+      ],
+      "price_state": "zero-valued draft placeholder; not approved retail pricing",
+      "size_state": "not specified; do not invent size variants",
+      "images": [
+        {
+          "filename": "_Warriorline  Samurai.png",
+          "alt": "FANN Legacy The Samurai underwear concept render; final design pending",
+          "variant_colour": "Black",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-legacy-samurai.png?v=1790697543"
+        }
+      ],
+      "development_notes": [
+        "Hero symbolism is narrative, not protective equipment.",
+        "The sculptural/leather-like render is not a confirmed material or construction specification.",
+        "Current image palette takes precedence for draft visual matching; bible palette remains a future direction.",
+        "No limited quantity, numbering, date or scarcity is approved."
+      ],
+      "archetype": {
+        "name": "The Samurai",
+        "value": "Honour"
+      }
+    },
+    {
+      "key": "legacy-viking",
+      "title": "Legacy — The Viking",
+      "handle": "legacy-viking",
+      "vendor": "FANN Fashion",
+      "productType": "Men’s underwear",
+      "status": "DRAFT",
+      "line": "legacy",
+      "descriptionHtml": "<p><strong>Forward, with Intention</strong></p><p>The Viking expresses the courage to explore and the resolve to keep moving. Tonal pattern and a textured dark surface give the concept a grounded sense of momentum.</p><p>Part of Legacy Line. Inspired by expansion, interpreted through FANN.</p><p><em>Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release.</em></p>",
+      "headline": "Forward, with Intention",
+      "seo": {
+        "title": "Legacy — The Viking | FANN Fashion",
+        "description": "The Viking expresses the courage to explore and the resolve to keep moving."
+      },
+      "tags": [
+        "fann",
+        "fann-line-legacy",
+        "concept-render",
+        "design-in-development",
+        "price-pending",
+        "size-pending",
+        "not-for-sale"
+      ],
+      "options": [
+        "Colour"
+      ],
+      "variants": [
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Black"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-LEGACY-VIKING-01",
+          "inventoryItem": {
+            "tracked": true
+          }
+        }
+      ],
+      "price_state": "zero-valued draft placeholder; not approved retail pricing",
+      "size_state": "not specified; do not invent size variants",
+      "images": [
+        {
+          "filename": "_Warriorline Viking.png",
+          "alt": "FANN Legacy The Viking underwear concept render; final design pending",
+          "variant_colour": "Black",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-legacy-viking.png?v=1790697645"
+        }
+      ],
+      "development_notes": [
+        "Hero symbolism is narrative, not protective equipment.",
+        "The sculptural/leather-like render is not a confirmed material or construction specification.",
+        "Current image palette takes precedence for draft visual matching; bible palette remains a future direction.",
+        "No limited quantity, numbering, date or scarcity is approved."
+      ],
+      "archetype": {
+        "name": "The Viking",
+        "value": "Expansion"
+      }
+    },
+    {
+      "key": "legacy-gladiator",
+      "title": "Legacy — The Gladiator",
+      "handle": "legacy-gladiator",
+      "vendor": "FANN Fashion",
+      "productType": "Men’s underwear",
+      "status": "DRAFT",
+      "line": "legacy",
+      "descriptionHtml": "<p><strong>Composure Under Pressure</strong></p><p>The Gladiator speaks to resilience: responding to difficulty without losing your sense of self. Its sculpted panels and compact silhouette translate that idea into a bold Legacy concept.</p><p>Part of Legacy Line. Inspired by resilience, interpreted through FANN.</p><p><em>Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release.</em></p>",
+      "headline": "Composure Under Pressure",
+      "seo": {
+        "title": "Legacy — The Gladiator | FANN Fashion",
+        "description": "The Gladiator speaks to resilience: responding to difficulty without losing your sense of self."
+      },
+      "tags": [
+        "fann",
+        "fann-line-legacy",
+        "concept-render",
+        "design-in-development",
+        "price-pending",
+        "size-pending",
+        "not-for-sale"
+      ],
+      "options": [
+        "Colour"
+      ],
+      "variants": [
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Black"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-LEGACY-GLADIATOR-01",
+          "inventoryItem": {
+            "tracked": true
+          }
+        }
+      ],
+      "price_state": "zero-valued draft placeholder; not approved retail pricing",
+      "size_state": "not specified; do not invent size variants",
+      "images": [
+        {
+          "filename": "_Warriorline Gladiator.png",
+          "alt": "FANN Legacy The Gladiator underwear concept render; final design pending",
+          "variant_colour": "Black",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-legacy-gladiator.png?v=1790697565"
+        }
+      ],
+      "development_notes": [
+        "Hero symbolism is narrative, not protective equipment.",
+        "The sculptural/leather-like render is not a confirmed material or construction specification.",
+        "Current image palette takes precedence for draft visual matching; bible palette remains a future direction.",
+        "No limited quantity, numbering, date or scarcity is approved."
+      ],
+      "archetype": {
+        "name": "The Gladiator",
+        "value": "Resilience"
+      }
+    },
+    {
+      "key": "legacy-knight",
+      "title": "Legacy — The Knight",
+      "handle": "legacy-knight",
+      "vendor": "FANN Fashion",
+      "productType": "Men’s underwear",
+      "status": "DRAFT",
+      "line": "legacy",
+      "descriptionHtml": "<p><strong>Strength with Purpose</strong></p><p>The Knight defines strength through care and responsibility. Layered forms and structured lines give the concept a protective visual language.</p><p>Part of Legacy Line. Inspired by protection, interpreted through FANN.</p><p><em>Concept preview. The images show a design in development. Final materials, construction, fit, colours and availability will be confirmed before release.</em></p>",
+      "headline": "Strength with Purpose",
+      "seo": {
+        "title": "Legacy — The Knight | FANN Fashion",
+        "description": "The Knight defines strength through care and responsibility. Layered forms and structured lines give the concept a protective visual language."
+      },
+      "tags": [
+        "fann",
+        "fann-line-legacy",
+        "concept-render",
+        "design-in-development",
+        "price-pending",
+        "size-pending",
+        "not-for-sale"
+      ],
+      "options": [
+        "Colour"
+      ],
+      "variants": [
+        {
+          "optionValues": [
+            {
+              "optionName": "Colour",
+              "name": "Black"
+            }
+          ],
+          "price": "0.00",
+          "sku": "FANN-DRAFT-LEGACY-KNIGHT-01",
+          "inventoryItem": {
+            "tracked": true
+          }
+        }
+      ],
+      "price_state": "zero-valued draft placeholder; not approved retail pricing",
+      "size_state": "not specified; do not invent size variants",
+      "images": [
+        {
+          "filename": "_Warriorline Knight.png",
+          "alt": "FANN Legacy The Knight underwear concept render; final design pending",
+          "variant_colour": "Black",
+          "url": "https://cdn.shopify.com/s/files/1/1085/4616/3057/files/fann-legacy-knight.png?v=1790697585"
+        }
+      ],
+      "development_notes": [
+        "Hero symbolism is narrative, not protective equipment.",
+        "The sculptural/leather-like render is not a confirmed material or construction specification.",
+        "Current image palette takes precedence for draft visual matching; bible palette remains a future direction.",
+        "No limited quantity, numbering, date or scarcity is approved."
+      ],
+      "archetype": {
+        "name": "The Knight",
+        "value": "Protection"
+      }
+    }
+  ]
+}
