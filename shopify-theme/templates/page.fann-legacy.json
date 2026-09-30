@@ -1,0 +1,251 @@
+{
+  "sections": {
+    "page_heading": {
+      "type": "fann-hero",
+      "settings": {
+        "height": 400,
+        "background": "#131416",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "title": {
+          "type": "heading",
+          "settings": {
+            "text": "The Legacy Story"
+          }
+        }
+      },
+      "block_order": [
+        "title"
+      ]
+    },
+    "content_0": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "Strength, defined within."
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Legacy is FANN\u2019s narrative collection: a series of concepts inspired by qualities we choose to embody. Its meaning comes from personal values, expressed through form and detail.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    },
+    "content_1": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "The Pharaoh \u2014 Sovereignty"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Pharaoh expresses sovereignty as self-direction: knowing what matters and choosing with intention. Fine gold patterning against a dark base gives this Legacy concept its visual character.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    },
+    "content_2": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "The Spartan \u2014 Discipline"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Spartan is an expression of discipline: a steady commitment to what you choose to become. Repeated geometric panels and a pared-back dark palette shape its character.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    },
+    "content_3": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "The Samurai \u2014 Honour"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Samurai takes honour as an inner standard. Layered lines and measured symmetry translate intention and precision into the Legacy design language.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    },
+    "content_4": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "The Viking \u2014 Expansion"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Viking expresses the courage to explore and the resolve to keep moving. Tonal pattern and a textured dark surface give the concept a grounded sense of momentum.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    },
+    "content_5": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "The Gladiator \u2014 Resilience"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Gladiator speaks to resilience: responding to difficulty without losing your sense of self. Its sculpted panels and compact silhouette translate that idea into a bold Legacy concept.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    },
+    "content_6": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "The Knight \u2014 Protection"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Knight defines strength through care and responsibility. Layered forms and structured lines give the concept a protective visual language without making a protective-performance claim.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    },
+    "content_7": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "A collection in development."
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>These six designs establish the initial direction. Final garments, release sequence and availability are still to be confirmed.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    }
+  },
+  "order": [
+    "page_heading",
+    "content_0",
+    "content_1",
+    "content_2",
+    "content_3",
+    "content_4",
+    "content_5",
+    "content_6",
+    "content_7"
+  ]
+}

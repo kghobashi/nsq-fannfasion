@@ -1,0 +1,81 @@
+{
+  "sections": {
+    "page_heading": {
+      "type": "fann-hero",
+      "settings": {
+        "height": 400,
+        "background": "#131416",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "title": {
+          "type": "heading",
+          "settings": {
+            "text": "Frequently Asked Questions"
+          }
+        }
+      },
+      "block_order": [
+        "title"
+      ]
+    },
+    "questions": {
+      "type": "fann-faq",
+      "settings": {},
+      "blocks": {
+        "content_0": {
+          "type": "question",
+          "settings": {
+            "question": "Are the images final products?",
+            "answer": "<p>No. They are concept renders showing the initial design direction. Materials, details, colours and construction may change during development.</p>",
+            "open": false
+          }
+        },
+        "content_1": {
+          "type": "question",
+          "settings": {
+            "question": "Can I order now?",
+            "answer": "<p>Orders are not open during this development phase. Availability and final product details will be announced when the collection is ready.</p>",
+            "open": false
+          }
+        },
+        "content_2": {
+          "type": "question",
+          "settings": {
+            "question": "Which collections are being developed?",
+            "answer": "<p>Silver, Gold, Platinum, Black and Legacy form the core range, alongside Halloween, Christmas, Birthday, New Year and Valentine\u2019s editions.</p>",
+            "open": false
+          }
+        },
+        "content_3": {
+          "type": "question",
+          "settings": {
+            "question": "Will all designs launch together?",
+            "answer": "<p>The release sequence is still being developed. A concept\u2019s inclusion here does not confirm a release date.</p>",
+            "open": false
+          }
+        },
+        "content_4": {
+          "type": "question",
+          "settings": {
+            "question": "Where are size, delivery and returns details?",
+            "answer": "<p>Size guidance will follow approved samples. Delivery regions, timing and returns terms will be confirmed before orders open.</p>",
+            "open": false
+          }
+        }
+      },
+      "block_order": [
+        "content_0",
+        "content_1",
+        "content_2",
+        "content_3",
+        "content_4"
+      ]
+    }
+  },
+  "order": [
+    "page_heading",
+    "questions"
+  ]
+}

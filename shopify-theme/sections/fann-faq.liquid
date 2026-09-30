@@ -1,0 +1,12 @@
+<section class="fann-faq" style="--fann-bg:{{ section.settings.background }};--fann-ink:{{ section.settings.text_color }}">
+  <div class="fann-faq__inner">
+    {% if section.settings.heading != blank %}<h2>{{ section.settings.heading | escape }}</h2>{% endif %}
+    {% for block in section.blocks %}<details {{ block.shopify_attributes }} {% if block.settings.open %}open{% endif %}><summary>{{ block.settings.question | escape }}<span aria-hidden="true">+</span></summary><div class="fann-faq__answer">{{ block.settings.answer }}</div></details>{% endfor %}
+  </div>
+</section>
+{% stylesheet %}
+.fann-faq{padding:64px 24px 88px;background:var(--fann-bg);color:var(--fann-ink)}.fann-faq__inner{max-width:860px;margin:auto}.fann-faq h2{font-size:28px;letter-spacing:.06em;text-transform:uppercase;margin:0 0 32px}.fann-faq details{border-bottom:1px solid #b29c7d50}.fann-faq details:first-of-type{border-top:1px solid #b29c7d50}.fann-faq summary{min-height:72px;padding:22px 0;display:flex;align-items:center;justify-content:space-between;gap:24px;list-style:none;cursor:pointer;font-size:17px;line-height:1.5}.fann-faq summary::-webkit-details-marker{display:none}.fann-faq summary span{color:#b29c7d;font-size:22px}.fann-faq details[open] summary span{transform:rotate(45deg)}.fann-faq__answer{padding:0 32px 24px 0;font-size:15px;line-height:1.7;color:#c6c2ba}.fann-faq__answer p{margin:0}.fann-faq summary:focus-visible{outline:2px solid #b29c7d;outline-offset:4px}@media(max-width:749px){.fann-faq{padding:40px 24px 56px}.fann-faq summary{font-size:16px}}
+{% endstylesheet %}
+{% schema %}
+{"name":"FANN questions","settings":[{"type":"text","id":"heading","label":"Heading"},{"type":"color","id":"background","label":"Background","default":"#161719"},{"type":"color","id":"text_color","label":"Text","default":"#E8E6E0"}],"blocks":[{"type":"question","name":"Question","settings":[{"type":"text","id":"question","label":"Question"},{"type":"richtext","id":"answer","label":"Answer"},{"type":"checkbox","id":"open","label":"Open by default","default":false}]}],"presets":[{"name":"FANN questions"}]}
+{% endschema %}

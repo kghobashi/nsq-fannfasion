@@ -1,0 +1,167 @@
+{
+  "sections": {
+    "page_heading": {
+      "type": "fann-hero",
+      "settings": {
+        "height": 400,
+        "background": "#131416",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "title": {
+          "type": "heading",
+          "settings": {
+            "text": "About FANN"
+          }
+        }
+      },
+      "block_order": [
+        "title"
+      ]
+    },
+    "content_0": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "Confidence begins underneath."
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>FANN is a men\u2019s fashion brand beginning with the first layer: underwear. We believe what you wear closest should support the way you feel, move and express yourself.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    },
+    "content_1": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "A considered foundation."
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our direction brings together clear form, comfort-led design and personal identity. Every line has its own expression, from the restraint of Silver to the narrative character of Legacy.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    },
+    "content_2": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "Strength, defined by you."
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Confidence is personal. It can be quiet, deliberate, expressive or resilient. FANN creates space for those differences through a shared design language of structure and considered detail.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    },
+    "content_3": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "Designed for Confidence. Engineered for Comfort."
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our promise sets the standard for development: the visual idea must work as a garment. Fit, materials and construction will be evaluated as the concepts become physical products.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    },
+    "content_4": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "Support in Style."
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A first layer with purpose. A personal expression, worn close.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    }
+  },
+  "order": [
+    "page_heading",
+    "content_0",
+    "content_1",
+    "content_2",
+    "content_3",
+    "content_4"
+  ]
+}

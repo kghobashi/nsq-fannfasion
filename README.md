@@ -13,10 +13,10 @@ Canonical brand foundation and website preparation for FANN Fashion, a men's fas
 | Body and UI typography | Montserrat |
 | Brand promise | Designed for Confidence. Engineered for Comfort. |
 | Tagline | Support in Style. |
-| Current development range | Silver, Gold, Platinum, Black and Legacy; Seasonal Editions reserved |
+| Current development range | Silver, Gold, Platinum, Black, Legacy and Seasonal / Special Editions |
 | Current scope | No erotic-themed underwear; X Edition is excluded from the current launch and website |
 | Commerce | Shopify development store connected; native editable theme follows website concept review |
-| Intended public domain | fann.fashion; domain configuration has not been verified here |
+| Intended public domain | fann.fashion; fannfashion.com redirects to the password-protected store |
 
 The identity and scope decisions above were confirmed through Kay’s 28–29 September 2026 instructions. This is a brand foundation, not a completed product specification or deployed website.
 
@@ -56,4 +56,4 @@ node scripts/build-context-packet.mjs . website philosophy decisions
 
 The second command prints the derived context packet. Its checked-in counterpart is `brand/context-packet.json`. Open questions are part of the contract and must not be inferred away.
 
-Current phase: draft catalogue, consolidated copy and website structure. Website concept selection comes next, followed by the native Shopify skeleton and individual garment-image refinement. No finished product or public storefront launch is implied.
+Current phase: approved Option 3 implemented as an unpublished native Shopify theme; seasonal content and domains connected. See docs/2026-09-30-build-status.md for verified work and launch gaps. No finished product or public storefront launch is implied.

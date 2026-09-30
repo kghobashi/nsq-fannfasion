@@ -4,7 +4,7 @@ Read `brand/README.md`, `brand/decisions.md` and the relevant brand sections bef
 
 Preserve the exact promise `Designed for Confidence. Engineered for Comfort.` and tagline `Support in Style.`. Use Bank Gothic for display and Montserrat for body/UI. The order of confidence and comfort is intentional.
 
-X Edition is excluded from the current website and launch. Do not add its products, navigation, imagery, erotic positioning or a coming-soon teaser. Retain its historical exclusion only in decision documentation. The current development catalogue includes Silver, Gold, Platinum, Black and Legacy, with Seasonal Editions reserved for the next asset batch. Warrior is a historical name for Legacy. Do not infer final specifications or commercial readiness from concept renders.
+X Edition is excluded from the current website and launch. Do not add its products, navigation, imagery, erotic positioning or a coming-soon teaser. Retain its historical exclusion only in decision documentation. The current development catalogue includes Silver, Gold, Platinum, Black and Legacy, with Seasonal / Special Editions now including Halloween, Christmas, Birthday, New Year and Valentine’s. Warrior is a historical name for Legacy. Do not infer final specifications or commercial readiness from concept renders.
 
 Keep confirmed facts, inherited source context, proposals and open questions distinguishable. `canonical: true` identifies this repository as the governing foundation; it does not approve unresolved products, a website composition, pricing or a launch date.
 

@@ -1,5 +1,18 @@
 # Decision history
 
+## 2026-09-30 Foundation v1.2.0 — selected experience and seasonal range
+
+Authority: Kay approved refined Option 3, requested the complete native Shopify build, supplied five seasonal concepts, and explicitly authorized connecting fann.fashion and fannfashion.com.
+
+- Preserve the premium, editorial and masculine approved composition.
+- Add Halloween, Christmas, Birthday, New Year and Valentine’s as Seasonal / Special Editions. All remain concept renders.
+- Native editable Shopify blocks and sections remain mandatory.
+- Preserve the recorded primary domain fann.fashion; redirect fannfashion.com and the www variants. HTTPS redirect to the password page was verified.
+- Goal: a fully functioning market-ready shop. The current theme and catalogue remain in development; neither domain connection nor code validation constitutes launch approval.
+- EUR working retail amounts supersede zero placeholders. They are not final manufacturing economics or tax advice. See the implementation status for Shopify state and unresolved launch requirements.
+
+Earlier decisions below remain historical; later explicit instructions supersede their reserved-seasonal, unselected-concept and AED statements.
+
 ## 2026-09-29 Foundation v1.1.0 — source consolidation and draft commerce
 
 Authority: Kay supplied the Strategic Updates bible, 18 concept/palette images and the FANN mark, requested consolidation and Shopify product/page preparation, and specified editable native Shopify blocks. Website concepts precede the theme skeleton; individual garment refinement follows.

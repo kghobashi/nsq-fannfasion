@@ -1,0 +1,139 @@
+{
+  "sections": {
+    "page_heading": {
+      "type": "fann-hero",
+      "settings": {
+        "height": 400,
+        "background": "#131416",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "title": {
+          "type": "heading",
+          "settings": {
+            "text": "Design Philosophy"
+          }
+        }
+      },
+      "block_order": [
+        "title"
+      ]
+    },
+    "content_0": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "Form has a purpose."
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>FANN starts with the relationship between the body and the garment. Proportion, panel lines and the placement of detail should contribute to a coherent design.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    },
+    "content_1": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "Comfort is a design requirement."
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A striking silhouette is only a starting point. The development process must consider support, freedom of movement, seam feel and long-term wear before a design is ready for release.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    },
+    "content_2": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "Identity is personal."
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The collections offer different degrees of expression. Legacy uses archetypes to explore chosen values; the everyday lines express the same philosophy with greater restraint.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    },
+    "content_3": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "From concept to garment."
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The current images are concept renders. Final fabrics, construction, sizing and performance details will be confirmed through product development. Any product claims will reflect the finished, verified garment.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    }
+  },
+  "order": [
+    "page_heading",
+    "content_0",
+    "content_1",
+    "content_2",
+    "content_3"
+  ]
+}

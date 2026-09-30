@@ -1,0 +1,111 @@
+{
+  "sections": {
+    "page_heading": {
+      "type": "fann-hero",
+      "settings": {
+        "height": 400,
+        "background": "#131416",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "title": {
+          "type": "heading",
+          "settings": {
+            "text": "Size & Care"
+          }
+        }
+      },
+      "block_order": [
+        "title"
+      ]
+    },
+    "content_0": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "Fit comes first."
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The first layer should feel considered from the moment you put it on. Product-specific measurements and fit guidance will accompany the finished FANN garments.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    },
+    "content_1": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "Our size guide is in development."
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Final size ranges and measurements will be added after the patterns and graded samples are approved. We will not ask you to rely on a generic size chart.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    },
+    "content_2": {
+      "type": "fann-editorial",
+      "settings": {
+        "spacing": 48,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "Care, matched to the garment."
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Fabric composition and tested care instructions will be listed for each finished product. These details remain in development for the current concepts.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    }
+  },
+  "order": [
+    "page_heading",
+    "content_0",
+    "content_1",
+    "content_2"
+  ]
+}
