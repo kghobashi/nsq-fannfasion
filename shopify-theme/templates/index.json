@@ -1,0 +1,303 @@
+{
+  "sections": {
+    "fann_hero": {
+      "type": "fann-hero",
+      "settings": {
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D",
+        "height": 560
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "Designed for Confidence.\nEngineered for Comfort."
+          }
+        },
+        "intro": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A considered first layer. A personal expression.</p>"
+          }
+        },
+        "explore": {
+          "type": "button",
+          "settings": {
+            "label": "Explore the collections",
+            "link": "#collections"
+          }
+        },
+        "tagline": {
+          "type": "tagline",
+          "settings": {
+            "text": "Support in Style."
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "intro",
+        "explore",
+        "tagline"
+      ]
+    },
+    "fann_core": {
+      "type": "fann-collection-stories",
+      "settings": {
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D",
+        "heading": "Find your expression.",
+        "anchor": "collections",
+        "layout": "cards",
+        "columns": 3,
+        "spacing": 48,
+        "enable_links": false
+      },
+      "blocks": {
+        "silver": {
+          "type": "collection",
+          "settings": {
+            "title": "Silver Line",
+            "image": "shopify://shop_images/fann-silverline-white.jpg",
+            "text": "<p>The Foundation of Confidence</p>",
+            "collection": "silver-line",
+            "label": "Explore Silver Line"
+          }
+        },
+        "gold": {
+          "type": "collection",
+          "settings": {
+            "title": "Gold Line",
+            "image": "shopify://shop_images/fann-gold-maroon.png",
+            "text": "<p>Precision in Motion</p>",
+            "collection": "gold-line",
+            "label": "Explore Gold Line"
+          }
+        },
+        "platinum": {
+          "type": "collection",
+          "settings": {
+            "title": "Platinum Line",
+            "image": "shopify://shop_images/fann-platinum-steel-blue.jpg",
+            "text": "<p>The Art of Comfort</p>",
+            "collection": "platinum-line",
+            "label": "Explore Platinum Line"
+          }
+        }
+      },
+      "block_order": [
+        "silver",
+        "gold",
+        "platinum"
+      ]
+    },
+    "fann_features": {
+      "type": "fann-collection-stories",
+      "settings": {
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D",
+        "anchor": "signature",
+        "layout": "feature",
+        "columns": 2,
+        "spacing": 0,
+        "enable_links": false
+      },
+      "blocks": {
+        "black": {
+          "type": "collection",
+          "settings": {
+            "title": "Black Line",
+            "image": "shopify://shop_images/fann-black-monolith.png",
+            "text": "<p>Controlled Intensity</p>",
+            "collection": "black-line",
+            "label": "Explore Black Line"
+          }
+        },
+        "legacy": {
+          "type": "collection",
+          "settings": {
+            "title": "Legacy Line",
+            "image": "shopify://shop_images/fann-legacy-pharaoh.png",
+            "text": "<p>Strength, defined within. Six initial archetypes. Six expressions of a personal code.</p>",
+            "collection": "legacy-line",
+            "label": "Explore Legacy Line"
+          }
+        }
+      },
+      "block_order": [
+        "black",
+        "legacy"
+      ]
+    },
+    "fann_philosophy": {
+      "type": "fann-editorial",
+      "settings": {
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D",
+        "anchor": "design-philosophy",
+        "spacing": 88
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "Confidence begins underneath."
+          }
+        },
+        "intro": {
+          "type": "text",
+          "settings": {
+            "text": "<p>FANN brings structure, comfort-led design and personal identity to the first layer of getting dressed.</p>"
+          }
+        },
+        "detail": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Form is the starting point. The way a garment feels and works must earn its place alongside the way it looks.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "intro",
+        "detail"
+      ]
+    },
+    "fann_seasonal": {
+      "type": "fann-collection-stories",
+      "settings": {
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D",
+        "heading": "For moments that matter.",
+        "text": "<p>Seasonal & Special Editions</p>",
+        "anchor": "special-editions",
+        "layout": "compact",
+        "columns": 5,
+        "spacing": 56,
+        "enable_links": false
+      },
+      "blocks": {
+        "halloween": {
+          "type": "collection",
+          "settings": {
+            "title": "Halloween",
+            "image": "shopify://shop_images/Halloween-Edition-concept.jpg",
+            "text": "<p>After dark.</p>",
+            "collection": "seasonal-editions",
+            "label": "Explore Halloween"
+          }
+        },
+        "christmas": {
+          "type": "collection",
+          "settings": {
+            "title": "Christmas",
+            "image": "shopify://shop_images/Christmas-Edition-concept.jpg",
+            "text": "<p>A richer tradition.</p>",
+            "collection": "seasonal-editions",
+            "label": "Explore Christmas"
+          }
+        },
+        "birthday": {
+          "type": "collection",
+          "settings": {
+            "title": "Birthday",
+            "image": "shopify://shop_images/Birthday-Edition-concept.jpg",
+            "text": "<p>Make it personal.</p>",
+            "collection": "seasonal-editions",
+            "label": "Explore Birthday"
+          }
+        },
+        "new_year": {
+          "type": "collection",
+          "settings": {
+            "title": "New Year",
+            "image": "shopify://shop_images/New-Year-Edition-concept.jpg",
+            "text": "<p>A bold beginning.</p>",
+            "collection": "seasonal-editions",
+            "label": "Explore New Year"
+          }
+        },
+        "valentines": {
+          "type": "collection",
+          "settings": {
+            "title": "Valentine\u2019s",
+            "image": "shopify://shop_images/Valentines-Edition-concept.jpg",
+            "text": "<p>An expression of connection.</p>",
+            "collection": "seasonal-editions",
+            "label": "Explore Valentine\u2019s"
+          }
+        }
+      },
+      "block_order": [
+        "halloween",
+        "christmas",
+        "birthday",
+        "new_year",
+        "valentines"
+      ]
+    },
+    "fann_development": {
+      "type": "fann-editorial",
+      "settings": {
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D",
+        "anchor": "development",
+        "spacing": 40
+      },
+      "blocks": {
+        "note": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Concept preview. Designs in development.</p><p>Final materials, construction, fit, colours and availability will be confirmed before release.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "note"
+      ]
+    },
+    "fann_story": {
+      "type": "fann-editorial",
+      "settings": {
+        "anchor": "our-story",
+        "spacing": 72,
+        "background": "#1C1C1C",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "A considered foundation."
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>FANN is a men\u2019s fashion brand beginning with the first layer: underwear. We believe what you wear closest should support the way you feel, move and express yourself.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    }
+  },
+  "order": [
+    "fann_hero",
+    "fann_core",
+    "fann_features",
+    "fann_story",
+    "fann_philosophy",
+    "fann_seasonal",
+    "fann_development"
+  ]
+}

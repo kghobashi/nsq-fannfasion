@@ -1,5 +1,7 @@
 # Shopify content source
 
+> Current status: see [30 September build status](../docs/2026-09-30-build-status.md). The older foundation snapshot below predates the approved concept, supplied seasonal batch, EUR working prices, editable theme and domain connection.
+
 This folder contains the editable content blueprint and source payload for the connected FANN development store. See shopify-sync.json for actual resource IDs and operation results; existence of a payload is not proof of upload.
 
 | File | Purpose |

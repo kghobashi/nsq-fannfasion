@@ -1,5 +1,7 @@
 # Remaining gaps — 29 September 2026
 
+> Current status: see [30 September build status](2026-09-30-build-status.md). The older foundation snapshot below predates the approved concept, supplied seasonal batch, EUR working prices, editable theme and domain connection.
+
 ## Resolved in this phase
 
 Typography and both exact messaging lines are settled. X Edition is excluded. The dedicated repository exists. The substantive strategic bible is read; the philosophy and collection architecture are consolidated. The initial logo and concept imagery are available. The FANN development Shopify store is connected.

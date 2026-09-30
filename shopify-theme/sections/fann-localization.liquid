@@ -1,0 +1,22 @@
+<div class="fann-localization" style="--fann-bg:{{ section.settings.background }};--fann-ink:{{ section.settings.text_color }}">
+  <p>{{ section.settings.message | escape }}</p>
+  <details class="fann-localization__details">
+    <summary>{{ localization.country.name }} <span aria-hidden="true">/</span> {{ localization.country.currency.iso_code }} <span aria-hidden="true">⌄</span></summary>
+    <div class="fann-localization__panel">
+      {% assign localization_form_id = 'FannLocalization-' | append: section.id %}
+      {% form 'localization', id: localization_form_id %}
+        <label for="FannCountry-{{ section.id }}">{{ section.settings.label | escape }}</label>
+        <select name="country_code" id="FannCountry-{{ section.id }}">
+          {% for country in localization.available_countries %}<option value="{{ country.iso_code }}" {% if country.iso_code == localization.country.iso_code %}selected{% endif %}>{{ country.name }} — {{ country.currency.iso_code }}</option>{% endfor %}
+        </select>
+        <button type="submit">{{ section.settings.button_label | escape }}</button>
+      {% endform %}
+    </div>
+  </details>
+</div>
+{% stylesheet %}
+.fann-localization{position:relative;z-index:25;display:flex;align-items:center;justify-content:space-between;gap:16px;padding:0 4vw;min-height:42px;background:var(--fann-bg);color:var(--fann-ink);border-bottom:1px solid #b29c7d30;font-size:11px;letter-spacing:.08em}.fann-localization p{margin:0}.fann-localization__details{position:relative}.fann-localization summary{cursor:pointer;min-height:42px;display:flex;align-items:center;gap:10px;list-style:none}.fann-localization summary::-webkit-details-marker{display:none}.fann-localization__panel{position:absolute;right:0;top:100%;width:min(340px,90vw);padding:22px;background:var(--fann-bg);border:1px solid #b29c7d80;box-shadow:0 12px 32px #0005}.fann-localization form{display:grid;gap:12px}.fann-localization label{font-size:13px;letter-spacing:0}.fann-localization select{width:100%;height:46px;padding:8px;background:#202225;color:#e8e6e0;border:1px solid #666;font:inherit;font-size:13px}.fann-localization button{min-height:44px;background:#b29c7d;color:#161719;border:0;font:inherit;cursor:pointer}.fann-localization :focus-visible{outline:2px solid #b29c7d;outline-offset:3px}@media(max-width:749px){.fann-localization{padding:0 20px;font-size:10px;letter-spacing:0}.fann-localization p{max-width:42%;font-size:10px}}
+{% endstylesheet %}
+{% schema %}
+{"name":"FANN region and currency","enabled_on":{"groups":["header"]},"settings":[{"type":"text","id":"message","label":"Message","default":"Support in Style."},{"type":"text","id":"label","label":"Selector label","default":"Country / region and currency"},{"type":"text","id":"button_label","label":"Button label","default":"Apply"},{"type":"color","id":"background","label":"Background","default":"#161719"},{"type":"color","id":"text_color","label":"Text","default":"#E8E6E0"}],"presets":[{"name":"FANN region and currency"}]}
+{% endschema %}

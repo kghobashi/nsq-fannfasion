@@ -1,6 +1,6 @@
 {
   "brand": "FANN Fashion",
-  "context_version": "1.1.0",
+  "context_version": "1.2.0",
   "source": "github",
   "loaded_sections": [
     "identity.md",
@@ -17,7 +17,7 @@
       "Its core experience combines confidence, comfort and personal identity.",
       "The approved brand promise is: Designed for Confidence. Engineered for Comfort.",
       "The approved tagline is: Support in Style.",
-      "The current collection architecture is Silver Line, Gold Line, Platinum Line, Black Line and Legacy Line, with Seasonal Editions reserved for the next image batch.",
+      "The current collection architecture is Silver Line, Gold Line, Platinum Line, Black Line and Legacy Line, with Seasonal / Special Editions covering Halloween, Christmas, Birthday, New Year and Valentine’s.",
       "The current launch and website exclude X Edition and erotic-themed underwear.",
       "Warrior Line is a historical source name; use Legacy Line in current product, collection and website naming.",
       "The user-supplied FANN_Logo-2.png is the approved mark for initial use; retain Bank Gothic and Montserrat as the typography pairing."
@@ -62,20 +62,26 @@
     "Current invitation: explore the concepts; activate signup only when consent text, privacy information and delivery have been configured."
   ],
   "website": [
-    "Governing identity: Bank Gothic, Montserrat and the supplied geometric FANN mark.",
+    "Governing identity: Bank Gothic display, Montserrat body/UI and supplied geometric FANN mark.",
     "Exact promise: Designed for Confidence. Engineered for Comfort.",
     "Exact tagline: Support in Style.",
-    "Platform: native Shopify. The connected development store is 8gdtem-bi.myshopify.com, initially named My Store 5, with Horizon installed as the MAIN theme.",
-    "Content phase: prepare the catalogue, collection architecture, editorial copy and navigation now; choose website concept direction next; build the editable theme skeleton after that.",
-    "All product images supplied on 29 September are concept renders, not final garment photography or proof of manufacture.",
-    "Catalogue structure: Silver, Gold and Platinum have colour variants; the four Black designs and six supplied Legacy archetypes are separate products.",
-    "Gold has six provisional colour directions. Only Maroon has an individual garment render; the other five are represented by the palette board.",
-    "Seasonal Editions is reserved and unpublished pending the next source batch.",
-    "X Edition is excluded from current products, pages, imagery and navigation.",
-    "Draft products and unpublished editorial content do not authorize checkout, preorders, publishing or a production launch.",
-    "All customer-facing headings, body text, images, links, spacing and colour controls must be editable through native Shopify theme settings, sections and blocks."
+    "Approved direction: refined Option 3; premium, editorial, masculine and restrained.",
+    "Native Shopify store: 8gdtem-bi.myshopify.com. Work in unpublished FANN development theme 207859286385. MAIN remains unchanged.",
+    "Homepage: architectural hero → Silver / Gold / Platinum → Black / Legacy → brand philosophy → Seasonal / Special Editions → development disclosure → footer.",
+    "Seasonal scope: Halloween, Christmas, Birthday, New Year and Valentine’s.",
+    "All supplied underwear visuals are concept renders; product designs, materials, construction and fit are not final.",
+    "Primary domain: fann.fashion. fannfashion.com redirects to it. DNS, HTTPS and the password page were verified on 30 September.",
+    "Native text, image and resource pickers, reusable sections/blocks and JSON templates are required. Keep product, cart, search and checkout behavior native.",
+    "EUR working prices are saved in Shopify. Draft markets prepare US/Canada, Europe, Asia and Middle East; UAE is the inherited active market. Activation and checkout currency behavior remain unverified.",
+    "X Edition stays excluded."
   ],
   "constraints": [
+    "Preserve the premium, editorial and masculine approved composition.",
+    "Add Halloween, Christmas, Birthday, New Year and Valentine’s as Seasonal / Special Editions. All remain concept renders.",
+    "Native editable Shopify blocks and sections remain mandatory.",
+    "Preserve the recorded primary domain fann.fashion; redirect fannfashion.com and the www variants. HTTPS redirect to the password page was verified.",
+    "Goal: a fully functioning market-ready shop. The current theme and catalogue remain in development; neither domain connection nor code validation constitutes launch approval.",
+    "EUR working retail amounts supersede zero placeholders. They are not final manufacturing economics or tax advice. See the implementation status for Shopify state and unresolved launch requirements.",
     "Preserve the exact promise, tagline, fonts and current X Edition exclusion from 28 September.",
     "Extend the draft catalogue to Silver, Gold, Platinum, Black and Legacy using the supplied references; reserve Seasonal Editions for the next batch.",
     "Keep the source's Warrior archetypes under the current Legacy Line name.",
@@ -92,16 +98,16 @@
     "Use the dedicated repository for the consolidated brand and future website work."
   ],
   "open_questions": [
-    "OPEN QUESTION: Final launch market, language, currency and release sequence.",
+    "OPEN QUESTION: Market activation, language coverage and release sequence.",
     "OPEN QUESTION: The suggested Arabic art association remains unconfirmed; do not invent an origin story.",
     "OPEN QUESTION: Hero supporting copy and the final invitation depend on the launch product and website mode.",
     "OPEN QUESTION: Vector master, final full/short wordmark lockups and clear-space rules.",
     "OPEN QUESTION: Final campaign casting, consistent garment photography/renders and production asset review.",
     "OPEN QUESTION: Selection of the website visual concept.",
     "OPEN QUESTION: Whether the public first release is a showcase, waitlist, preorder or stocked store.",
-    "OPEN QUESTION: Website concept selection and final homepage composition.",
-    "OPEN QUESTION: Final sizes, materials, supported benefits, prices, availability, delivery, returns and support operations.",
-    "OPEN QUESTION: Production font rights, refined assets and final wordmark lockup.",
+    "OPEN QUESTION: Final sizes, materials, supported benefits, availability, delivery, returns and support operations.",
+    "OPEN QUESTION: Licensed Bank Gothic webfont, refined assets and final wordmark lockup.",
+    "OPEN QUESTION: Commercial activation and checkout verification.",
     "OPEN QUESTION: Final garment materials, construction, fit, sample testing and performance evidence."
   ]
 }

@@ -1,5 +1,7 @@
 # Editable Shopify structure
 
+> Current status: see [30 September build status](2026-09-30-build-status.md). The older foundation snapshot below predates the approved concept, supplied seasonal batch, EUR working prices, editable theme and domain connection.
+
 Status: content and information architecture prepared; website concept selection precedes theme implementation.
 
 ## Sitemap and content ownership

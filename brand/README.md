@@ -1,6 +1,6 @@
 # FANN brand context
 
-This directory is FANN's canonical foundation. Version 1.1.0 incorporates the substantive Strategic Updates bible and concept assets supplied on 29 September, while preserving the approved typography, exact messaging and X Edition exclusion from 28 September.
+This directory is FANN's canonical foundation. Version 1.2.0 records the selected Option 3 website direction, seasonal range and domain connection. The 1.1.0 history incorporates the substantive Strategic Updates bible and concept assets supplied on 29 September, while preserving the approved typography, exact messaging and X Edition exclusion from 28 September.
 
 ## Authority and approval scope
 
