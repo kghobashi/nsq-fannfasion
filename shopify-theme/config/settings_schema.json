@@ -2122,38 +2122,38 @@
     "settings": [
       {
         "type": "paragraph",
-        "content": "Upload the licensed Bank Gothic WOFF2 webfont to Shopify Content > Files, then paste its URL. A desktop font name alone does not load a webfont."
+        "content": "Bank Gothic Medium and Light are installed in this theme. Leave the URL blank to use the supplied files, or enter an optional replacement WOFF2 URL."
       },
       {
         "type": "url",
         "id": "fann_bank_gothic_url",
-        "label": "Bank Gothic WOFF2 URL"
+        "label": "Optional Bank Gothic WOFF2 override"
       },
       {
         "type": "select",
         "id": "fann_bank_gothic_weight",
-        "label": "Bank Gothic file weight",
-        "default": "500",
+        "label": "Bank Gothic display weight",
+        "default": "400",
         "options": [
           {
             "value": "300",
-            "label": "Light \u2014 300"
+            "label": "Supplied Light \u2014 300"
           },
           {
             "value": "400",
-            "label": "Regular \u2014 400"
+            "label": "Supplied Medium \u2014 400"
           },
           {
             "value": "500",
-            "label": "Medium \u2014 500"
+            "label": "Custom font \u2014 500"
           },
           {
             "value": "600",
-            "label": "Semibold \u2014 600"
+            "label": "Custom font \u2014 600"
           },
           {
             "value": "700",
-            "label": "Bold \u2014 700"
+            "label": "Custom font \u2014 700"
           }
         ]
       },
