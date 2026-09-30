@@ -22,7 +22,7 @@
 .fann-hero__architecture{position:absolute;inset:0;z-index:-1;background:linear-gradient(115deg,transparent 53%,#b29c7d45 53.08%,#b29c7d45 53.18%,#111214 53.25%,#202225 75%,#131416 75.1%);opacity:.7}
 .fann-hero__architecture:after{content:'';position:absolute;inset:0;background:linear-gradient(0deg,#111214 0%,transparent 28%),radial-gradient(ellipse at 22% 50%,transparent,#0007)}
 .fann-hero__content{width:100%;max-width:1000px;text-align:center;display:grid;gap:24px}
-.fann-hero h1{margin:0;color:inherit;font-family:'Bank Gothic',var(--font-heading--family);font-size:clamp(30px,4.4vw,64px);line-height:1.12;font-weight:500;letter-spacing:.075em;text-transform:uppercase;text-wrap:balance}
+.fann-hero h1{margin:0;color:inherit;font-family:var(--font-heading--family);font-size:clamp(30px,4.4vw,64px);line-height:1.12;font-weight:var(--fann-display-weight,500);letter-spacing:.075em;text-transform:uppercase;text-wrap:balance}
 .fann-hero__text{font-size:clamp(16px,1.55vw,21px);line-height:1.55;font-weight:400}.fann-hero__text p{margin:0}
 .fann-hero__button{display:inline-flex;gap:24px;align-items:center;justify-content:center;min-height:52px;padding:16px 30px;background:var(--fann-accent);border:1px solid var(--fann-accent);color:#171819;text-decoration:none;text-transform:uppercase;letter-spacing:.14em;font-size:12px;font-weight:600;transition:background .2s,color .2s}
 .fann-hero__button:hover{background:#d5c1a3;color:#111}.fann-hero a:focus-visible{outline:2px solid var(--fann-ink);outline-offset:5px}
@@ -32,3 +32,4 @@
 {% schema %}
 {"name":"FANN editorial hero","settings":[{"type":"image_picker","id":"image","label":"Background image"},{"type":"color","id":"background","label":"Background","default":"#131416"},{"type":"color","id":"text_color","label":"Text","default":"#E8E6E0"},{"type":"color","id":"accent","label":"Accent","default":"#B29C7D"},{"type":"range","id":"height","label":"Desktop height","min":400,"max":800,"step":20,"unit":"px","default":560}],"blocks":[{"type":"heading","name":"Heading","limit":1,"settings":[{"type":"textarea","id":"text","label":"Heading","default":"Designed for Confidence.\nEngineered for Comfort."}]},{"type":"text","name":"Introduction","settings":[{"type":"richtext","id":"text","label":"Text","default":"<p>A considered first layer. A personal expression.</p>"}]},{"type":"button","name":"Button","settings":[{"type":"text","id":"label","label":"Label","default":"Explore the collections"},{"type":"url","id":"link","label":"Link"}]},{"type":"tagline","name":"Tagline","settings":[{"type":"text","id":"text","label":"Text","default":"Support in Style."}]}],"presets":[{"name":"FANN editorial hero","blocks":[{"type":"heading"},{"type":"text"},{"type":"button"},{"type":"tagline"}]}]}
 {% endschema %}
+

@@ -1,0 +1,30 @@
+{% doc %}
+  Loads the merchant-supplied Bank Gothic webfont and applies it to display typography.
+  @example
+  {% render 'fann-brand-font' %}
+{% enddoc %}
+{% if settings.fann_bank_gothic_url != blank %}
+  {{ settings.fann_bank_gothic_url | preload_tag: as: 'font', type: 'font/woff2' }}
+  {% style %}
+    @font-face {
+      font-family: 'FANN Bank Gothic';
+      src: url('{{ settings.fann_bank_gothic_url | escape }}') format('woff2');
+      font-style: normal;
+      font-weight: {{ settings.fann_bank_gothic_weight | default: 500 }};
+      font-display: swap;
+    }
+    :root {
+      --font-heading--family: 'FANN Bank Gothic', {{ settings.type_heading_font.family }}, {{ settings.type_heading_font.fallback_families }};
+      --font-subheading--family: var(--font-heading--family);
+      --font-heading--weight: {{ settings.fann_bank_gothic_weight | default: 500 }};
+      --font-subheading--weight: var(--font-heading--weight);
+      --fann-display-weight: var(--font-heading--weight);
+      --font-h1--weight: var(--font-heading--weight);
+      --font-h2--weight: var(--font-heading--weight);
+      --font-h3--weight: var(--font-heading--weight);
+      --font-h4--weight: var(--font-heading--weight);
+      --font-h5--weight: var(--font-heading--weight);
+      --font-h6--weight: var(--font-heading--weight);
+    }
+  {% endstyle %}
+{% endif %}

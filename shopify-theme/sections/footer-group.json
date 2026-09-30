@@ -210,10 +210,85 @@
         "heading",
         "tagline"
       ]
+    },
+    "fann_navigation": {
+      "type": "fann-footer-links",
+      "settings": {
+        "label": "FANN information"
+      },
+      "blocks": {
+        "collections": {
+          "type": "link",
+          "settings": {
+            "label": "Collections",
+            "url": "/#collections"
+          }
+        },
+        "story": {
+          "type": "link",
+          "settings": {
+            "label": "Our Story",
+            "url": "/#our-story"
+          }
+        },
+        "philosophy": {
+          "type": "link",
+          "settings": {
+            "label": "Design Philosophy",
+            "url": "/#design-philosophy"
+          }
+        },
+        "about-fann": {
+          "type": "page",
+          "settings": {
+            "label": "About FANN",
+            "page": "about-fann"
+          }
+        },
+        "legacy": {
+          "type": "page",
+          "settings": {
+            "label": "The Legacy Story",
+            "page": "legacy"
+          }
+        },
+        "size-and-care": {
+          "type": "page",
+          "settings": {
+            "label": "Size & Care",
+            "page": "size-and-care"
+          }
+        },
+        "faq": {
+          "type": "page",
+          "settings": {
+            "label": "FAQ",
+            "page": "faq"
+          }
+        },
+        "contact": {
+          "type": "page",
+          "settings": {
+            "label": "Contact",
+            "page": "contact"
+          }
+        }
+      },
+      "block_order": [
+        "collections",
+        "story",
+        "philosophy",
+        "about-fann",
+        "legacy",
+        "size-and-care",
+        "faq",
+        "contact"
+      ]
     }
   },
   "order": [
     "fann_brand_footer",
+    "fann_navigation",
     "footer_m9NzUG",
     "footer_utilities_jLGE8U"
   ]
