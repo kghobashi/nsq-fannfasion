@@ -1,0 +1,117 @@
+{
+  "sections": {
+    "hero": {
+      "type": "fann-hero",
+      "settings": {
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D",
+        "height": 400
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "Find your expression."
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Six collection directions. One considered first layer.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    },
+    "collections": {
+      "type": "fann-collection-stories",
+      "settings": {
+        "layout": "cards",
+        "columns": 3,
+        "spacing": 32,
+        "enable_links": true,
+        "background": "#161719",
+        "text_color": "#E8E6E0",
+        "accent": "#B29C7D"
+      },
+      "blocks": {
+        "silver": {
+          "type": "collection",
+          "settings": {
+            "title": "Silver Line",
+            "image": "shopify://shop_images/fann-silverline-white.jpg",
+            "text": "<p>The Foundation of Confidence</p>",
+            "collection": "silver-line",
+            "label": "Explore Silver Line"
+          }
+        },
+        "gold": {
+          "type": "collection",
+          "settings": {
+            "title": "Gold Line",
+            "image": "shopify://shop_images/fann-gold-maroon.png",
+            "text": "<p>Precision in Motion</p>",
+            "collection": "gold-line",
+            "label": "Explore Gold Line"
+          }
+        },
+        "platinum": {
+          "type": "collection",
+          "settings": {
+            "title": "Platinum Line",
+            "image": "shopify://shop_images/fann-platinum-steel-blue.jpg",
+            "text": "<p>The Art of Comfort</p>",
+            "collection": "platinum-line",
+            "label": "Explore Platinum Line"
+          }
+        },
+        "black": {
+          "type": "collection",
+          "settings": {
+            "title": "Black Line",
+            "image": "shopify://shop_images/fann-black-monolith.png",
+            "text": "<p>Controlled Intensity</p>",
+            "collection": "black-line",
+            "label": "Explore Black Line"
+          }
+        },
+        "legacy": {
+          "type": "collection",
+          "settings": {
+            "title": "Legacy Line",
+            "image": "shopify://shop_images/fann-legacy-pharaoh.png",
+            "text": "<p>Strength, defined within. Six initial archetypes. Six expressions of a personal code.</p>",
+            "collection": "legacy-line",
+            "label": "Explore Legacy Line"
+          }
+        },
+        "seasonal": {
+          "type": "collection",
+          "settings": {
+            "title": "Seasonal & Special Editions",
+            "image": "shopify://shop_images/Halloween-Edition-concept.jpg",
+            "text": "<p>For moments that matter.</p>",
+            "collection": "seasonal-editions",
+            "label": "Explore Special Editions"
+          }
+        }
+      },
+      "block_order": [
+        "silver",
+        "gold",
+        "platinum",
+        "black",
+        "legacy",
+        "seasonal"
+      ]
+    }
+  },
+  "order": [
+    "hero",
+    "collections"
+  ]
+}

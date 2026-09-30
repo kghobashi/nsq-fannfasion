@@ -221,21 +221,14 @@
           "type": "link",
           "settings": {
             "label": "Collections",
-            "url": "/#collections"
-          }
-        },
-        "story": {
-          "type": "link",
-          "settings": {
-            "label": "Our Story",
-            "url": "/#our-story"
+            "url": "/collections"
           }
         },
         "philosophy": {
-          "type": "link",
+          "type": "page",
           "settings": {
             "label": "Design Philosophy",
-            "url": "/#design-philosophy"
+            "page": "design-philosophy"
           }
         },
         "about-fann": {
@@ -276,7 +269,6 @@
       },
       "block_order": [
         "collections",
-        "story",
         "philosophy",
         "about-fann",
         "legacy",

@@ -53,7 +53,7 @@
         "layout": "cards",
         "columns": 3,
         "spacing": 48,
-        "enable_links": false
+        "enable_links": true
       },
       "blocks": {
         "silver": {
@@ -103,7 +103,7 @@
         "layout": "feature",
         "columns": 2,
         "spacing": 0,
-        "enable_links": false
+        "enable_links": true
       },
       "blocks": {
         "black": {
@@ -159,12 +159,20 @@
           "settings": {
             "text": "<p>Form is the starting point. The way a garment feels and works must earn its place alongside the way it looks.</p>"
           }
+        },
+        "read_more": {
+          "type": "button",
+          "settings": {
+            "label": "Our design philosophy",
+            "link": "/pages/design-philosophy"
+          }
         }
       },
       "block_order": [
         "heading",
         "intro",
-        "detail"
+        "detail",
+        "read_more"
       ]
     },
     "fann_seasonal": {
@@ -179,7 +187,7 @@
         "layout": "compact",
         "columns": 5,
         "spacing": 56,
-        "enable_links": false
+        "enable_links": true
       },
       "blocks": {
         "halloween": {
@@ -189,7 +197,7 @@
             "image": "shopify://shop_images/Halloween-Edition-concept.jpg",
             "text": "<p>After dark.</p>",
             "collection": "seasonal-editions",
-            "label": "Explore Halloween"
+            "label": "Explore Special Editions"
           }
         },
         "christmas": {
@@ -199,7 +207,7 @@
             "image": "shopify://shop_images/Christmas-Edition-concept.jpg",
             "text": "<p>A richer tradition.</p>",
             "collection": "seasonal-editions",
-            "label": "Explore Christmas"
+            "label": "Explore Special Editions"
           }
         },
         "birthday": {
@@ -209,7 +217,7 @@
             "image": "shopify://shop_images/Birthday-Edition-concept.jpg",
             "text": "<p>Make it personal.</p>",
             "collection": "seasonal-editions",
-            "label": "Explore Birthday"
+            "label": "Explore Special Editions"
           }
         },
         "new_year": {
@@ -219,17 +227,17 @@
             "image": "shopify://shop_images/New-Year-Edition-concept.jpg",
             "text": "<p>A bold beginning.</p>",
             "collection": "seasonal-editions",
-            "label": "Explore New Year"
+            "label": "Explore Special Editions"
           }
         },
         "valentines": {
           "type": "collection",
           "settings": {
-            "title": "Valentine\u2019s",
+            "title": "Valentine’s",
             "image": "shopify://shop_images/Valentines-Edition-concept.jpg",
             "text": "<p>An expression of connection.</p>",
             "collection": "seasonal-editions",
-            "label": "Explore Valentine\u2019s"
+            "label": "Explore Special Editions"
           }
         }
       },
@@ -281,13 +289,21 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>FANN is a men\u2019s fashion brand beginning with the first layer: underwear. We believe what you wear closest should support the way you feel, move and express yourself.</p>"
+            "text": "<p>FANN is a men’s fashion brand beginning with the first layer: underwear. We believe what you wear closest should support the way you feel, move and express yourself.</p>"
+          }
+        },
+        "read_more": {
+          "type": "button",
+          "settings": {
+            "label": "Our story",
+            "link": "/pages/about-fann"
           }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "read_more"
       ]
     }
   },
