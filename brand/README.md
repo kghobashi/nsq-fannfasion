@@ -1,6 +1,6 @@
 # FANN brand context
 
-This directory is FANN's canonical foundation. Version 1.1.0 incorporates the substantive Strategic Updates bible and concept assets supplied on 29 September, while preserving the approved typography, exact messaging and X Edition exclusion from 28 September.
+This directory is FANN's canonical foundation. Version 1.2.0 adds the founder-approved FANN FASHION display lockup and subtle company-colour profile gradients on 14 October 2026. Version 1.1.0 incorporated the substantive Strategic Updates bible and concept assets supplied on 29 September, while preserving the approved typography, exact messaging and X Edition exclusion from 28 September.
 
 ## Authority and approval scope
 

@@ -1,6 +1,6 @@
 # Identity
 
-- FANN Fashion is a men's fashion brand within the NSQ.global portfolio, entering through premium underwear.
+- FANN FASHION is a men's fashion brand within the NSQ.global portfolio, entering through premium underwear.
 - Its core experience combines confidence, comfort and personal identity.
 - The approved brand promise is: Designed for Confidence. Engineered for Comfort.
 - The approved tagline is: Support in Style.
@@ -15,3 +15,5 @@ The new store is currently configured for UAE/AED. Do not infer a currency or ma
 
 OPEN QUESTION: Final launch market, language, currency and release sequence.
 OPEN QUESTION: The suggested Arabic art association remains unconfirmed; do not invent an origin story.
+
+- Approved display lockup: **FANN FASHION** on one line, with **Support in Style.** beneath; retain the supplied triangular logo alongside the wordmark where appropriate.

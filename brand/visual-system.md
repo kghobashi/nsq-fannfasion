@@ -27,3 +27,10 @@ OPEN QUESTION: Vector master, final full/short wordmark lockups and clear-space 
 The 29 September intake contains 17 garment/design reference images, one Gold palette board and one logo. The Mesh image is a multi-design montage. The Gold board is a palette reference, not six finished garment images. Generated labels and inconsistent cuts must be resolved before production use.
 
 OPEN QUESTION: Final campaign casting, consistent garment photography/renders and production asset review.
+
+## Profile headers and banners — 14 October 2026
+
+- Use a subtle gradient in the approved brand palette; preserve a calm text field and readable contrast.
+- The company name and segment share one line, with the slogan beneath.
+- Keep existing approved typefaces and marks. Source SVGs and PNGs retain platform-specific export dimensions.
+- Current pack: company OneDrive → 00 - Company HQ → __NSQ Global Brand Identity → 06 - Social Profiles - Drafts.
