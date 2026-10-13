@@ -40,3 +40,19 @@ The typography decision supersedes older Josefin Sans records and the Raleway cr
 The uploaded `FANN Fashion Brand Bible.docx` has no substantive brand-bible body. It provides no new product or philosophy content to promote. See `../docs/sources/2026-09-28-brand-bible-receipt.md`.
 
 The repository was found empty under the exact name `kghobashi/nsq-fannfasion`. Its spelling and public visibility were preserved; no rename or privacy change was requested.
+
+## 2026-10-14 — Founder-approved slogans and profile lockups
+
+Approval: Kay explicitly approved the ANURA slogan family and requested GitHub/Supabase and today's private social-profile asset revisions in the ANURA Main conversation.
+
+- ANURA master: **A World of Wellbeing**.
+- ANURA Home: **The Essence of Wellbeing**.
+- ANURA Residences: **The Architecture of Wellbeing**.
+- ANURA Hospitality: **The Experience of Wellbeing**.
+- Spell Wellbeing as one word throughout the identity.
+- Place ANURA and its segment on one line, with the relevant slogan below.
+- Use restrained background gradients drawn from each company's existing approved colours across the current eight-brand header/banner pack.
+- FANN display lockup: **FANN FASHION**, with **Support in Style.** beneath it.
+- Preserve brand-specific fonts and approved source marks. This is an identity/profile-asset revision, not authorization to create social accounts, invite followers or announce a launch.
+
+This replaces the former umbrella/Home/Hospitality use of The Architecture of Wellbeing; that phrase remains the Residences slogan and may still describe the architectural philosophy in editorial content.
